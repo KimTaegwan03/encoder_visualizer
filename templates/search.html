@@ -1,0 +1,92 @@
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Search videos</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 32px; }
+    .wrap { display: grid; grid-template-columns: 280px 1fr; gap: 24px; }
+    .card { border: 1px solid #e5e7eb; border-radius: 16px; padding: 16px; box-shadow: 0 8px 20px rgba(0,0,0,0.05); }
+    .results { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+    .thumb { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 10px; background: #f3f4f6; }
+    .muted { color: #6b7280; font-size: 13px; }
+    .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+    .chip { font-size: 12px; padding: 4px 8px; border-radius: 999px; background: #f3f4f6; }
+    .title { font-weight: 600; margin: 8px 0 4px; }
+    .footer { display: flex; justify-content: space-between; align-items: center; margin-top: 8px; }
+    .btn { text-decoration: none; padding: 8px 12px; border: 1px solid #e5e7eb; border-radius: 10px; }
+    form .row { display: grid; gap: 8px; }
+    input[type="text"] { padding: 8px 10px; border-radius: 8px; border: 1px solid #d1d5db; width: 100%; }
+    .sec { margin-bottom: 12px; }
+    .pagination { margin-top: 16px; display: flex; gap: 12px; align-items: center; }
+  </style>
+</head>
+<body>
+  <h1>Find a video to process</h1>
+  <p class="muted">Only videos with both the MP4 and its ASD JSON are shown.</p>
+
+  <div class="wrap">
+    <aside class="card">
+      <form method="get" action="/">
+        <div class="sec">
+          <label>Search</label>
+          <input type="text" name="q" value="{{ q }}" placeholder="title, channel, id, people…" />
+        </div>
+        <div class="sec">
+          <label>Filter by person</label>
+          <input type="text" name="person" value="{{ person }}" list="people_list" placeholder="e.g. Ryan Reynolds" />
+          <datalist id="people_list">
+            {% for name, cnt in people_list %}
+              <option value="{{ name }}">{{ name }} ({{ cnt }})</option>
+            {% endfor %}
+          </datalist>
+        </div>
+        <div class="sec">
+          <label>Filter by channel</label>
+          <input type="text" name="channel" value="{{ channel }}" list="channel_list" placeholder="e.g. People" />
+          <datalist id="channel_list">
+            {% for name, cnt in channel_list %}
+              <option value="{{ name }}">{{ name }} ({{ cnt }})</option>
+            {% endfor %}
+          </datalist>
+        </div>
+        <div>
+          <button class="btn" type="submit">Apply</button>
+        </div>
+      </form>
+
+      <div class="sec" style="margin-top:16px;">
+        <div class="muted">Total results: {{ total }}</div>
+      </div>
+    </aside>
+
+    <main>
+      <div class="results">
+        {% for e in items %}
+          <div class="card">
+            <img class="thumb" src="{{ e.thumbnail }}" alt="thumbnail" />
+            <div class="title">{{ e.title }}</div>
+            <div class="muted">{{ e.channel }} • {{ e.publish_date_str }} • {{ e.length_str }}</div>
+            <div class="muted">Views: {{ e.views if e.views is not none else '—' }} • ID: <code>{{ e.id }}</code></div>
+            {% if e.persons %}
+            <div class="chips">
+              {% for p in e.persons %}<span class="chip">{{ p }}</span>{% endfor %}
+            </div>
+            {% endif %}
+            <div class="footer">
+              <a class="btn" href="/video/{{ e.id }}">Open</a>
+              <a class="btn" href="/process?video_id={{ e.id }}">Process</a>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+
+      <div class="pagination">
+        {% if has_prev %}<a class="btn" href="/?q={{ q }}&person={{ person }}&channel={{ channel }}&page={{ prev_page }}">← Prev</a>{% endif %}
+        <span class="muted">Page {{ page }}</span>
+        {% if has_next %}<a class="btn" href="/?q={{ q }}&person={{ person }}&channel={{ channel }}&page={{ next_page }}">Next →</a>{% endif %}
+      </div>
+    </main>
+  </div>
+</body>
+</html>

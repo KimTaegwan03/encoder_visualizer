@@ -1,0 +1,261 @@
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Processing: {{ entry.title }}</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 40px; }
+    .card { max-width: 1100px; margin: 0 auto; padding: 20px; border: 1px solid #e5e7eb; border-radius: 16px; }
+    .tabs { display: flex; gap: 8px; margin-bottom: 16px; }
+    .tab { padding: 8px 12px; border-radius: 999px; border: 1px solid #e5e7eb; text-decoration: none; cursor: pointer; }
+    .tab.active { background: #111827; color: #fff; border-color: #111827; }
+    .panel { display: none; }
+    .panel.active { display: block; }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid #f3f4f6; vertical-align: top; }
+    code { background: #f3f4f6; padding: 2px 6px; border-radius: 6px; }
+    .bars { margin-top: 12px; display: grid; gap: 10px; }
+    .bar { display: grid; grid-template-columns: 160px 1fr 64px; gap: 10px; align-items: center; }        
+    .track { height: 12px; background: #F3F4F6; border-radius: 999px; overflow: hidden; }
+    .fill { height: 100%; background-color: var(--color, #D1D5DB); width: calc(var(--pct, 0)* 1%); transition: width .25s ease;}
+    .label { font-size: 14px; color: #374151; }
+    .pct { font-size: 14px; color: #374151; text-align: right; }
+    .faces { display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 12px; margin-top: 12px; }
+    .face { display: flex; flex-direction: column; align-items: center; }
+    .face img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 12px; }
+    .face .name { margin-top: 6px; font-size: 14px; color: #374151; text-align: center; }
+    .face-thumb { width: 56px; height: 56px; object-fit: cover; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>{{ entry.title }}</h1>
+    <p class="muted">ID: <code>{{ entry.id }}</code> • {{ entry.channel }} • {{ entry.publish_date_str }} • {{ entry.length_str }}</p>
+
+    <div class="tabs">
+      <a class="tab active" data-tab="overview">Overview</a>
+      <a class="tab" data-tab="asd">Active speaker diarization</a>
+      <a class="tab" data-tab="asd_vocal">ASD &amp; vocal emotion</a>
+      <a class="tab" data-tab="facial">Facial emotion</a>
+    </div>
+
+    <div id="panel-overview" class="panel active">
+    {% if speaker_faces %}
+      <h3 style="margin-top:18px;">Active speakers (first appearance)</h3>
+      <div class="faces">
+        {% for f in speaker_faces %}
+          <div class="face">
+            <img src="data:image/jpeg;base64,{{ f.img_b64 }}" alt="{{ f.speaker }}">
+            <div class="name">{{ f.speaker }}</div>
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+      {% if vocal_emotion_stats %}
+        <h3 style="margin-top:18px;">Vocal Emotion Results</h3>
+        <div class="bars">
+          {% for s in vocal_emotion_stats %}
+            <div class="bar">
+              <div class="label">{{s.emotion}}</div>
+              <div class="track">
+                <div class="fill" style="width: {{ s.pct|float|round(1) }}%; background-color:{{ s.color }};"></div>
+              </div>
+              <div class="pct">{{ '%.1f'|format(s.pct) }}%</div>
+            </div>
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      {% if facial_emotion_stats %}
+      <h3 style="margin-top:18px;">Facial Expression Results</h3>
+      <div class="bars">
+        {% for s in facial_emotion_stats %}
+          <div class="bar">
+            <div class="label">{{ s.emotion }}</div>
+            <div class="track">
+              <div class="fill" style="width: {{ s.pct|float|round(1) }}%; background-color:{{ s.color }};"></div>
+            </div>
+            <div class="pct">{{ '%.1f'|format(s.pct) }}%</div>
+          </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      {% if vocal_emotion_stats_by_speaker %}
+        <h3 style="margin-top:18px;">Vocal emotions by speaker</h3>
+        {% for spk, stats in vocal_emotion_stats_by_speaker.items() %}
+          <div style="margin:10px 0 6px; font-weight:600;">{{ spk }}</div>
+          <div class="bars">
+            {% for s in stats %}
+              <div class="bar">
+                <div class="label">{{ s.emotion }}</div>
+                <div class="track">
+                  <div class="fill" style="--pct: {{ s.pct|float|round(1) }}; --color: {{ s.color }};"></div>
+                </div>
+                <div class="pct">{{ '%.1f'|format(s.pct) }}%</div>
+              </div>
+            {% endfor %}
+          </div>
+        {% endfor %}
+      {% endif %}
+
+      {% if facial_emotion_stats_by_speaker %}
+        <h3 style="margin-top:18px;">Facial expressions by speaker</h3>
+        {% for spk, stats in facial_emotion_stats_by_speaker.items() %}
+          <div style="margin:10px 0 6px; font-weight:600; display:flex; align-items:center; gap:8px;">
+            {% set b64 = speaker_face_map.get(spk) %}
+            {% if b64 %}
+              <img class="face-thumb" src="data:image/jpeg;base64,{{ b64 }}" alt="{{ spk }}">
+            {% endif %}
+            <span>{{ spk }}</span>
+          </div>
+          <div class="bars">
+            {% for s in stats %}
+              <div class="bar">
+                <div class="label">{{ s.emotion }}</div>
+                <div class="track">
+                  <div class="fill" style="--pct: {{ s.pct|float|round(1) }}; --color: {{ s.color }};"></div>
+                </div>
+                <div class="pct">{{ '%.1f'|format(s.pct) }}%</div>
+              </div>
+            {% endfor %}
+          </div>
+        {% endfor %}
+      {% endif %}
+      
+
+
+
+      <iframe
+        src="/static/graph.html"
+        style="width:100%; height:900px; border:none; background-color: #111827;"
+        loading="lazy"
+        referrerpolicy="no-referrer"
+      ></iframe>
+    </div>
+
+    <div id="panel-asd" class="panel">
+      {% if active_speaker_script %}
+        <table>
+          <thead>
+            <tr>
+              <th style="width:72px;">Face</th>
+              <th style="width:180px;">Speaker</th>
+              <th>Transcript</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for s in active_speaker_script %}
+              <tr>
+                <td>
+                  {% set b64 = speaker_face_map.get(s.speaker) %}
+                  {% if b64 %}
+                    <img class="face-thumb" src="data:image/jpeg;base64,{{ b64 }}" alt="{{ s.speaker }}">
+                  {% else %}—{% endif %}
+                </td>
+                <td><strong>{{ s.speaker|replace("_", " ") }}</strong></td>
+                <td>{{ s.word }}</td>
+              </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      {% else %}
+        <p>No diarization segments found.</p>
+      {% endif %}
+    </div>
+
+    <!-- <div id="panel-graph" class="panel" style="width:100%; max-width:100%;">
+      
+    </div> -->
+
+    <div id="panel-asd-vocal" class="panel">
+      {% if asd_vocal %}
+        <table>
+          <thead>
+            <tr>
+              <th style="width:72px;">Face</th>
+              <th style="width:160px;">Speaker</th>
+              <th>Transcript</th>
+              <th style="width:160px;">Emotion</th>
+              <th style="width:200px;">Audio</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for row in asd_vocal %}
+              <tr>
+                <td>
+                  {% set b64 = speaker_face_map.get(row.speaker) %}
+                  {% if b64 %}
+                    <img class="face-thumb" src="data:image/jpeg;base64,{{ b64 }}" alt="{{ row.speaker }}">
+                  {% else %}—{% endif %}
+                </td>
+                <td><strong>{{row.speaker|replace("_", " ") }}</strong></td>
+                <td>{{ row.text }}</td>
+                <td>{{ row.emotion }}</td>
+                <td><audio controls preload="metadata" src="{{ row.audio_url }}"></audio></td>
+              </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      {% else %}
+        <p>No vocal-emotion segments found.</p>
+      {% endif %}
+    </div>
+    
+    <div id="panel-facial" class ="panel">
+      {% if facial_error %}
+        <p style="background:#FEE2E2;color:#7F1D1D;padding:10px 12px;border-radius:8px;">
+          {{ facial_error }}
+        </p>
+      {% endif %}
+      {% if facial_video_url %}
+        <video controls preload="metadata" src="{{ facial_video_url }}" style="width:100%;max-height:560px;border-radius:12px;"></video>
+      {% else %}
+        <p>No annotated video available.</p>
+      {% endif %}
+    </div>
+  </div>
+
+  <script>
+  (function () {
+    const tabs = document.querySelectorAll('.tab');
+    const panels = {
+      overview: document.getElementById('panel-overview'),
+      asd: document.getElementById('panel-asd'),
+      asd_vocal: document.getElementById('panel-asd-vocal'),
+      facial: document.getElementById('panel-facial')
+    };
+
+    function applyBars(scope = document){
+      scope.querySelectorAll('.fill').forEach(el => {
+        const pct = parseFloat(el.getAttribute('data-pct'));
+        const color = el.getAttribute('data-color');
+        if (Number.isFinite(pct)) el.style.width = pct + '%';
+        if (color) el.style.backgroundColor = color;
+      });
+    }
+
+    applyBars();
+    window.addEventListener('load', () => applyBars());
+    document.addEventListener('DOMContentLoaded', () => applyBars());
+
+    tabs.forEach(t => {
+      t.addEventListener('click', (e) => {
+        e.preventDefault();
+        const key= t.dataset.tab;
+        const panel= panels[key];
+        if (!panel) return;
+
+      
+        tabs.forEach(x => x.classList.remove('active'));
+        t.classList.add('active');
+        Object.values(panels).forEach(p => p && p.classList.remove('active'));
+        panel.classList.add('active');
+
+        applyBars(panel);
+      });
+    });
+  })();
+  </script>
+</body>
+</html>
