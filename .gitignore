@@ -8,3 +8,6 @@ home
 light_asd
 models
 trash
+__pycache__
+__pycache__ copy
+emotion_recognition
