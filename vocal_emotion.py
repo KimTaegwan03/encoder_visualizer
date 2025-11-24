@@ -7,17 +7,16 @@ from torchaudio.functional import resample
 from transformers import Wav2Vec2Processor
 from typing import List, Dict, Any
 from transformers.models.wav2vec2.modeling_wav2vec2 import Wav2Vec2Model, Wav2Vec2PreTrainedModel
-json_dir = "/mnt/data1/asd_orch_jsons"
-vids_dir = "/mnt/data1/videos"
+
 
 MODEL_NAME = "audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim"
 TARGET_SR = 16000
 MIN_DUR_S = 0.40 # pad short sentences to this for stable embeddings
-DEVICE ="cuda" if torch.cuda.is_available() else "cpu"
+DEVICE ="cuda:1" if torch.cuda.is_available() else "cpu"
 
 CHUNK_SEC = 12.0        # <=12s windows keep mem low
 HOP_SEC   = 12.0        # no overlap; use <CHUNK_SEC for overlap+average
-USE_FP16  = (DEVICE == "cuda")
+USE_FP16  = (DEVICE == "cuda:1")
 
 class RegressionHead(nn.Module):
     def __init__(self, config):
