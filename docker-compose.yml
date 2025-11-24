@@ -1,0 +1,41 @@
+---
+services:
+  weaviate:
+    command:
+    - --host
+    - 0.0.0.0
+    - --port
+    - '8080'
+    - --scheme
+    - http
+    image: semitechnologies/weaviate:1.23.7
+    ports:
+    - 8080:8080
+    - 50051:50051
+    restart: on-failure:0
+    volumes:
+      - /home/dsl/data/weaviate:/var/lib/weaviate
+    environment:
+      QUERY_DEFAULTS_LIMIT: 25
+      VECTOR_CACHE_MAX_OBJECTS: 100000
+      VECTOR_INDEX_MAX_CONNECTIONS: 32
+      VECTOR_INDEX_EF_CONSTRUCTION: 128
+      VECTOR_INDEX_EF: 64
+      AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: 'true'
+      PERSISTENCE_DATA_PATH: '/var/lib/weaviate'
+      ENABLE_MODULES: 'text2vec-transformers'
+      TRANSFORMERS_INFERENCE_API: http://t2v-transformers:8080
+      ENABLE_API_BASED_MODULES: 'true'
+      CLUSTER_HOSTNAME: 'node1'
+  t2v-transformers:  # Set the name of the inference container
+    image: cr.weaviate.io/semitechnologies/transformers-inference:sentence-transformers-all-mpnet-base-v2
+    environment:
+      ENABLE_CUDA: 1  # Set to 1 to 
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+...
