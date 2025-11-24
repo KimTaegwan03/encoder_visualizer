@@ -1,0 +1,6590 @@
+[
+  {
+    "word": "House",
+    "start": 0.0,
+    "end": 0.38,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "Speaker",
+    "start": 0.38,
+    "end": 0.6,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "Mike",
+    "start": 0.6,
+    "end": 0.84,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "Johnson",
+    "start": 0.84,
+    "end": 1.24,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "took",
+    "start": 1.24,
+    "end": 1.56,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "a",
+    "start": 1.56,
+    "end": 1.66,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "trip",
+    "start": 1.66,
+    "end": 1.86,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "to",
+    "start": 1.86,
+    "end": 2.06,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "Florida",
+    "start": 2.06,
+    "end": 2.46,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "and",
+    "start": 2.46,
+    "end": 2.74,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "met",
+    "start": 2.74,
+    "end": 2.94,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "with",
+    "start": 2.94,
+    "end": 3.1,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "Donald",
+    "start": 3.1,
+    "end": 3.42,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "Trump",
+    "start": 3.42,
+    "end": 3.7,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "at",
+    "start": 3.7,
+    "end": 3.86,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "Mar",
+    "start": 3.86,
+    "end": 4.08,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "-a",
+    "start": 4.08,
+    "end": 4.22,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "-Lago",
+    "start": 4.22,
+    "end": 4.32,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "yesterday.",
+    "start": 4.32,
+    "end": 4.86,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "That's",
+    "start": 4.96,
+    "end": 5.24,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "according",
+    "start": 5.24,
+    "end": 5.46,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "to",
+    "start": 5.46,
+    "end": 5.64,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "a",
+    "start": 5.64,
+    "end": 5.74,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "Republican",
+    "start": 5.74,
+    "end": 6.18,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "source",
+    "start": 6.18,
+    "end": 6.54,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "familiar",
+    "start": 6.54,
+    "end": 7.06,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "with",
+    "start": 7.06,
+    "end": 7.82,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "the",
+    "start": 7.82,
+    "end": 8.06,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "meeting.",
+    "start": 8.06,
+    "end": 8.26,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "It's",
+    "start": 8.44,
+    "end": 8.6,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "not",
+    "start": 8.6,
+    "end": 8.84,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "clear",
+    "start": 8.84,
+    "end": 9.14,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "exactly",
+    "start": 9.14,
+    "end": 9.78,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "what",
+    "start": 9.78,
+    "end": 10.12,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "the",
+    "start": 10.12,
+    "end": 10.3,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "pair",
+    "start": 10.3,
+    "end": 10.4,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "talked",
+    "start": 10.4,
+    "end": 10.7,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "about,",
+    "start": 10.7,
+    "end": 11.02,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "but",
+    "start": 11.38,
+    "end": 11.44,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "the",
+    "start": 11.44,
+    "end": 11.72,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "timing",
+    "start": 11.72,
+    "end": 11.96,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "sure",
+    "start": 11.96,
+    "end": 12.24,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "is",
+    "start": 12.24,
+    "end": 12.44,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "fun.",
+    "start": 12.44,
+    "end": 12.6,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "It's",
+    "start": 12.72,
+    "end": 12.82,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "just",
+    "start": 12.82,
+    "end": 13.04,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "a",
+    "start": 13.04,
+    "end": 13.18,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "week",
+    "start": 13.18,
+    "end": 13.36,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "after",
+    "start": 13.36,
+    "end": 14.06,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "Speaker",
+    "start": 14.06,
+    "end": 14.42,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "Johnson",
+    "start": 14.42,
+    "end": 14.78,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "publicly",
+    "start": 14.78,
+    "end": 15.24,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "endorsed",
+    "start": 15.24,
+    "end": 15.76,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "Donald",
+    "start": 15.76,
+    "end": 16.16,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "Trump",
+    "start": 16.16,
+    "end": 16.44,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "for",
+    "start": 16.44,
+    "end": 16.7,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "president,",
+    "start": 16.7,
+    "end": 17.04,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "making",
+    "start": 17.34,
+    "end": 17.44,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "him",
+    "start": 17.44,
+    "end": 17.76,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "the",
+    "start": 17.76,
+    "end": 18.1,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "highest",
+    "start": 18.1,
+    "end": 18.42,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "ranking",
+    "start": 18.42,
+    "end": 18.78,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "Republican",
+    "start": 18.78,
+    "end": 19.32,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "to",
+    "start": 19.32,
+    "end": 19.88,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "do",
+    "start": 19.88,
+    "end": 20.1,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "so",
+    "start": 20.1,
+    "end": 20.46,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "so",
+    "start": 20.46,
+    "end": 20.92,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "far.",
+    "start": 20.92,
+    "end": 21.4,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "Elena",
+    "start": 21.72,
+    "end": 21.9,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "Treene",
+    "start": 21.9,
+    "end": 22.2,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "is",
+    "start": 22.2,
+    "end": 22.38,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "following",
+    "start": 22.38,
+    "end": 22.66,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "this.",
+    "start": 22.66,
+    "end": 22.92,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "She's",
+    "start": 22.96,
+    "end": 23.16,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "got",
+    "start": 23.16,
+    "end": 23.28,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "more",
+    "start": 23.28,
+    "end": 23.4,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "for",
+    "start": 23.4,
+    "end": 23.64,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "us.",
+    "start": 23.64,
+    "end": 23.86,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "She",
+    "start": 23.86,
+    "end": 24.02,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "joins",
+    "start": 24.02,
+    "end": 24.18,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "us",
+    "start": 24.18,
+    "end": 24.34,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "now.",
+    "start": 24.34,
+    "end": 24.74,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "Elena,",
+    "start": 24.92,
+    "end": 25.02,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "should",
+    "start": 25.1,
+    "end": 25.26,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "people",
+    "start": 25.26,
+    "end": 25.52,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "read",
+    "start": 25.52,
+    "end": 25.76,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "this",
+    "start": 25.76,
+    "end": 25.96,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "as",
+    "start": 25.96,
+    "end": 26.16,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "Mike",
+    "start": 26.16,
+    "end": 26.34,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "Johnson",
+    "start": 26.34,
+    "end": 26.64,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "acknowledging",
+    "start": 26.64,
+    "end": 27.26,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "that",
+    "start": 27.26,
+    "end": 28.1,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "their",
+    "start": 28.1,
+    "end": 28.52,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "political",
+    "start": 28.52,
+    "end": 29.06,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "fortunes",
+    "start": 29.06,
+    "end": 29.6,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "are",
+    "start": 29.6,
+    "end": 29.74,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "now",
+    "start": 29.74,
+    "end": 30.0,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "intertwined?",
+    "start": 30.0,
+    "end": 30.4,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "Oh,",
+    "start": 31.68,
+    "end": 31.68,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "absolutely,",
+    "start": 31.68,
+    "end": 32.24,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Kate.",
+    "start": 32.68,
+    "end": 32.94,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "I",
+    "start": 33.1,
+    "end": 33.1,
+    "speaker": "SPEAKER_03"
+  },
+  {
+    "word": "mean,",
+    "start": 33.1,
+    "end": 33.32,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "as",
+    "start": 33.38,
+    "end": 33.54,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "you",
+    "start": 33.54,
+    "end": 33.68,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "mentioned,",
+    "start": 33.68,
+    "end": 34.06,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Mike",
+    "start": 34.6,
+    "end": 35.36,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Johnson",
+    "start": 35.36,
+    "end": 35.64,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "went",
+    "start": 35.64,
+    "end": 35.84,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "to",
+    "start": 35.84,
+    "end": 36.04,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Mar",
+    "start": 36.04,
+    "end": 36.24,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "-a",
+    "start": 36.24,
+    "end": 36.28,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "-Lago",
+    "start": 36.28,
+    "end": 36.36,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "last",
+    "start": 36.36,
+    "end": 36.72,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "night.",
+    "start": 36.72,
+    "end": 36.86,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "I",
+    "start": 36.94,
+    "end": 36.96,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "was",
+    "start": 36.96,
+    "end": 37.22,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "told",
+    "start": 37.22,
+    "end": 37.4,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "that",
+    "start": 37.4,
+    "end": 37.58,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "he",
+    "start": 37.58,
+    "end": 37.64,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "has",
+    "start": 37.64,
+    "end": 37.88,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "been",
+    "start": 37.88,
+    "end": 38.1,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "fundraising",
+    "start": 38.1,
+    "end": 38.64,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "in",
+    "start": 38.64,
+    "end": 39.4,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Florida,",
+    "start": 39.4,
+    "end": 39.72,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "and",
+    "start": 39.72,
+    "end": 39.94,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "so",
+    "start": 39.94,
+    "end": 40.14,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "that's",
+    "start": 40.14,
+    "end": 40.3,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "why",
+    "start": 40.3,
+    "end": 40.44,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "he",
+    "start": 40.44,
+    "end": 40.62,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "made",
+    "start": 40.62,
+    "end": 40.78,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "the",
+    "start": 40.78,
+    "end": 41.02,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "trip",
+    "start": 41.02,
+    "end": 41.32,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "over",
+    "start": 41.32,
+    "end": 41.78,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "to",
+    "start": 41.78,
+    "end": 42.02,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Mar",
+    "start": 42.02,
+    "end": 42.26,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "-a",
+    "start": 42.26,
+    "end": 42.32,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "-Lago.",
+    "start": 42.32,
+    "end": 42.5,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "I'm",
+    "start": 42.54,
+    "end": 42.68,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "told",
+    "start": 42.68,
+    "end": 42.92,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "that",
+    "start": 42.92,
+    "end": 43.12,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "him",
+    "start": 43.12,
+    "end": 43.26,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "and",
+    "start": 43.26,
+    "end": 43.36,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "the",
+    "start": 43.36,
+    "end": 43.46,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "former",
+    "start": 43.46,
+    "end": 43.68,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "president",
+    "start": 43.68,
+    "end": 44.66,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "met",
+    "start": 44.66,
+    "end": 45.04,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "briefly,",
+    "start": 45.04,
+    "end": 45.8,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "but",
+    "start": 45.8,
+    "end": 46.22,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "as",
+    "start": 46.22,
+    "end": 46.44,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "you",
+    "start": 46.44,
+    "end": 46.64,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "said,",
+    "start": 46.64,
+    "end": 46.86,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "it's",
+    "start": 47.14,
+    "end": 47.26,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "still",
+    "start": 47.26,
+    "end": 47.46,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "unclear",
+    "start": 47.46,
+    "end": 47.8,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "exactly",
+    "start": 47.8,
+    "end": 48.3,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "what",
+    "start": 48.3,
+    "end": 48.58,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "was",
+    "start": 48.58,
+    "end": 48.94,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "discussed.",
+    "start": 48.94,
+    "end": 49.38,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "But",
+    "start": 49.44,
+    "end": 49.62,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "look,",
+    "start": 49.62,
+    "end": 50.18,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Mike",
+    "start": 50.46,
+    "end": 50.68,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Johnson",
+    "start": 50.68,
+    "end": 50.96,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "has",
+    "start": 50.96,
+    "end": 51.14,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "very",
+    "start": 51.14,
+    "end": 51.56,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "quickly",
+    "start": 51.56,
+    "end": 51.88,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "learned",
+    "start": 51.88,
+    "end": 52.34,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "that",
+    "start": 52.34,
+    "end": 52.92,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "he",
+    "start": 52.92,
+    "end": 53.66,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "needs",
+    "start": 53.66,
+    "end": 54.08,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Donald",
+    "start": 54.08,
+    "end": 54.58,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Trump's",
+    "start": 54.58,
+    "end": 55.02,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "backing",
+    "start": 55.02,
+    "end": 55.3,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "if",
+    "start": 55.3,
+    "end": 55.72,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "House",
+    "start": 55.72,
+    "end": 56.0,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Republicans",
+    "start": 56.0,
+    "end": 56.56,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "have",
+    "start": 56.56,
+    "end": 56.96,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "any",
+    "start": 56.96,
+    "end": 57.24,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "hope",
+    "start": 57.24,
+    "end": 57.46,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "of",
+    "start": 57.46,
+    "end": 57.72,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "retaining",
+    "start": 57.72,
+    "end": 58.02,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "their",
+    "start": 58.02,
+    "end": 58.32,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "slim",
+    "start": 58.32,
+    "end": 58.5,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "majority",
+    "start": 58.5,
+    "end": 58.96,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "in",
+    "start": 58.96,
+    "end": 59.48,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "the",
+    "start": 59.48,
+    "end": 59.66,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "House.",
+    "start": 59.66,
+    "end": 59.92,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "And",
+    "start": 60.0,
+    "end": 60.22,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "that's",
+    "start": 60.22,
+    "end": 60.6,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "also",
+    "start": 60.6,
+    "end": 60.86,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "true",
+    "start": 60.86,
+    "end": 61.06,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "with",
+    "start": 61.06,
+    "end": 61.32,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "just",
+    "start": 61.32,
+    "end": 61.72,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "his",
+    "start": 61.72,
+    "end": 62.5,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "maneuvering",
+    "start": 62.5,
+    "end": 63.02,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "within",
+    "start": 63.02,
+    "end": 63.22,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "the",
+    "start": 63.22,
+    "end": 63.44,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "conference",
+    "start": 63.44,
+    "end": 63.76,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "itself.",
+    "start": 63.76,
+    "end": 64.14,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "We",
+    "start": 64.2,
+    "end": 64.34,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "know",
+    "start": 64.34,
+    "end": 64.66,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "that",
+    "start": 64.66,
+    "end": 64.92,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "many",
+    "start": 64.92,
+    "end": 65.14,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "of",
+    "start": 65.14,
+    "end": 65.36,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "the",
+    "start": 65.36,
+    "end": 65.74,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "most",
+    "start": 65.74,
+    "end": 66.1,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "hardline",
+    "start": 66.1,
+    "end": 66.86,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "conservatives",
+    "start": 66.86,
+    "end": 67.58,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "in",
+    "start": 67.58,
+    "end": 68.26,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Congress",
+    "start": 68.26,
+    "end": 68.66,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "wield",
+    "start": 68.66,
+    "end": 69.14,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "so",
+    "start": 69.14,
+    "end": 69.54,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "much",
+    "start": 69.54,
+    "end": 69.76,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "power",
+    "start": 69.76,
+    "end": 70.2,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "because",
+    "start": 70.2,
+    "end": 70.56,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "of",
+    "start": 70.56,
+    "end": 70.74,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "that",
+    "start": 70.74,
+    "end": 70.92,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "slim",
+    "start": 70.92,
+    "end": 71.12,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "majority.",
+    "start": 71.12,
+    "end": 71.54,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "And",
+    "start": 71.64,
+    "end": 71.82,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "remember,",
+    "start": 71.82,
+    "end": 72.18,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "they",
+    "start": 72.56,
+    "end": 72.86,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "wielded",
+    "start": 72.86,
+    "end": 73.22,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "that",
+    "start": 73.22,
+    "end": 73.38,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "power",
+    "start": 73.38,
+    "end": 73.84,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "by",
+    "start": 73.84,
+    "end": 74.44,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "helping",
+    "start": 74.44,
+    "end": 74.78,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "oust",
+    "start": 74.78,
+    "end": 75.36,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Kevin",
+    "start": 75.36,
+    "end": 75.68,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "McCarthy",
+    "start": 75.68,
+    "end": 76.2,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "earlier",
+    "start": 76.2,
+    "end": 76.9,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "this",
+    "start": 76.9,
+    "end": 77.16,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "year.",
+    "start": 77.16,
+    "end": 77.24,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "And",
+    "start": 77.3,
+    "end": 77.4,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "so",
+    "start": 77.4,
+    "end": 77.54,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Johnson",
+    "start": 77.54,
+    "end": 77.82,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "knows",
+    "start": 77.82,
+    "end": 78.12,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "that",
+    "start": 78.12,
+    "end": 78.62,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Trump's",
+    "start": 78.62,
+    "end": 79.0,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "support",
+    "start": 79.0,
+    "end": 79.24,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "is",
+    "start": 79.24,
+    "end": 79.46,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "very",
+    "start": 79.46,
+    "end": 79.72,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "much",
+    "start": 79.72,
+    "end": 80.1,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "necessary",
+    "start": 80.1,
+    "end": 80.62,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "here.",
+    "start": 80.62,
+    "end": 81.1,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "And",
+    "start": 81.24,
+    "end": 81.54,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "I",
+    "start": 81.54,
+    "end": 81.6,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "think",
+    "start": 81.6,
+    "end": 81.7,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "that's",
+    "start": 81.7,
+    "end": 81.9,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "also",
+    "start": 81.9,
+    "end": 82.16,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "why",
+    "start": 82.16,
+    "end": 82.48,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "you",
+    "start": 82.48,
+    "end": 82.88,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "saw",
+    "start": 82.88,
+    "end": 83.1,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "him",
+    "start": 83.1,
+    "end": 83.34,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "come",
+    "start": 83.34,
+    "end": 83.6,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "out",
+    "start": 83.6,
+    "end": 83.9,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "very",
+    "start": 83.9,
+    "end": 84.32,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "early",
+    "start": 84.32,
+    "end": 84.64,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "and",
+    "start": 84.64,
+    "end": 85.1,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "endorse",
+    "start": 85.1,
+    "end": 85.64,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Donald",
+    "start": 85.64,
+    "end": 86.2,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Trump.",
+    "start": 86.2,
+    "end": 86.46,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "He",
+    "start": 86.64,
+    "end": 86.64,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "said",
+    "start": 86.64,
+    "end": 86.92,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "on",
+    "start": 86.92,
+    "end": 87.48,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "CNBC",
+    "start": 87.48,
+    "end": 88.44,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "last",
+    "start": 88.44,
+    "end": 88.86,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "week,",
+    "start": 88.86,
+    "end": 89.24,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "quote,",
+    "start": 89.66,
+    "end": 89.66,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "I",
+    "start": 89.98,
+    "end": 89.98,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "am",
+    "start": 89.98,
+    "end": 90.24,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "all",
+    "start": 90.24,
+    "end": 90.48,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "in",
+    "start": 90.48,
+    "end": 90.6,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "for",
+    "start": 90.6,
+    "end": 90.82,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "President",
+    "start": 90.82,
+    "end": 91.2,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Trump",
+    "start": 91.2,
+    "end": 91.52,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "and",
+    "start": 91.52,
+    "end": 91.74,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "said",
+    "start": 91.74,
+    "end": 91.88,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "that",
+    "start": 91.88,
+    "end": 92.06,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "he",
+    "start": 92.06,
+    "end": 92.36,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "expects",
+    "start": 92.36,
+    "end": 92.58,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "him",
+    "start": 92.58,
+    "end": 92.86,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "to",
+    "start": 92.86,
+    "end": 93.1,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "be",
+    "start": 93.1,
+    "end": 93.6,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "the",
+    "start": 93.6,
+    "end": 93.88,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "nominee.",
+    "start": 93.88,
+    "end": 94.14,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Now,",
+    "start": 94.24,
+    "end": 94.58,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "just",
+    "start": 94.72,
+    "end": 94.88,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "having",
+    "start": 94.88,
+    "end": 95.14,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "discussed",
+    "start": 95.14,
+    "end": 95.86,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Johnson",
+    "start": 95.86,
+    "end": 96.74,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "with",
+    "start": 96.74,
+    "end": 97.16,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "many",
+    "start": 97.16,
+    "end": 97.42,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "of",
+    "start": 97.42,
+    "end": 97.54,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Donald",
+    "start": 97.54,
+    "end": 97.88,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Trump's",
+    "start": 97.88,
+    "end": 98.62,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "advisors,",
+    "start": 98.62,
+    "end": 99.1,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "they",
+    "start": 99.34,
+    "end": 99.56,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "told",
+    "start": 99.56,
+    "end": 99.76,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "me",
+    "start": 99.76,
+    "end": 99.98,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "that,",
+    "start": 99.98,
+    "end": 100.26,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "look,",
+    "start": 100.44,
+    "end": 100.56,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "they",
+    "start": 100.56,
+    "end": 100.96,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "are",
+    "start": 100.96,
+    "end": 101.2,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "very",
+    "start": 101.2,
+    "end": 101.5,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "happy",
+    "start": 101.5,
+    "end": 101.7,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "he",
+    "start": 101.7,
+    "end": 101.94,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "endorsed",
+    "start": 101.94,
+    "end": 102.26,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "him.",
+    "start": 102.26,
+    "end": 102.66,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "He's",
+    "start": 102.94,
+    "end": 103.2,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "always",
+    "start": 103.2,
+    "end": 103.46,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "seemed",
+    "start": 103.46,
+    "end": 103.72,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "to",
+    "start": 103.72,
+    "end": 103.92,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "be",
+    "start": 103.92,
+    "end": 104.02,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "very",
+    "start": 104.02,
+    "end": 104.28,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "supportive",
+    "start": 104.28,
+    "end": 104.74,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "of",
+    "start": 104.74,
+    "end": 105.18,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "the",
+    "start": 105.18,
+    "end": 105.32,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "former",
+    "start": 105.32,
+    "end": 105.52,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "president.",
+    "start": 105.52,
+    "end": 105.96,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "But",
+    "start": 106.18,
+    "end": 106.3,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "the",
+    "start": 106.3,
+    "end": 106.42,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "two",
+    "start": 106.42,
+    "end": 106.54,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "were",
+    "start": 106.54,
+    "end": 106.72,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "never",
+    "start": 106.72,
+    "end": 106.98,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "particularly",
+    "start": 106.98,
+    "end": 107.6,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "close.",
+    "start": 107.6,
+    "end": 107.94,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "I",
+    "start": 107.94,
+    "end": 108.1,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "think",
+    "start": 108.1,
+    "end": 108.36,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "this",
+    "start": 108.36,
+    "end": 108.52,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "is",
+    "start": 108.52,
+    "end": 108.72,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "a",
+    "start": 108.72,
+    "end": 108.72,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "lot",
+    "start": 108.72,
+    "end": 108.98,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "of",
+    "start": 108.98,
+    "end": 109.3,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "relationship",
+    "start": 109.3,
+    "end": 109.9,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "building",
+    "start": 109.9,
+    "end": 110.26,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "on",
+    "start": 110.26,
+    "end": 110.72,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "part",
+    "start": 110.72,
+    "end": 110.88,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "of",
+    "start": 110.88,
+    "end": 111.02,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "the",
+    "start": 111.02,
+    "end": 111.16,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "speaker.",
+    "start": 111.16,
+    "end": 111.5,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "Kate?",
+    "start": 111.82,
+    "end": 111.86,
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "word": "That's",
+    "start": 113.46000000000001,
+    "end": 113.98,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "pretty",
+    "start": 113.98,
+    "end": 114.2,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "interesting.",
+    "start": 114.2,
+    "end": 114.52,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "It's",
+    "start": 114.96,
+    "end": 115.06,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "good",
+    "start": 115.06,
+    "end": 115.14,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "to",
+    "start": 115.14,
+    "end": 115.28,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "see",
+    "start": 115.28,
+    "end": 115.34,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "you,",
+    "start": 115.34,
+    "end": 115.46,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Elena.",
+    "start": 115.46,
+    "end": 115.56,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Thank",
+    "start": 115.64,
+    "end": 115.76,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "you.",
+    "start": 115.76,
+    "end": 116.02000000000001,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "How",
+    "start": 116.78,
+    "end": 117.0,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "significant",
+    "start": 117.0,
+    "end": 117.7,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "is",
+    "start": 117.7,
+    "end": 118.32,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "this",
+    "start": 118.32,
+    "end": 118.58,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "meeting",
+    "start": 118.58,
+    "end": 118.8,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "between",
+    "start": 118.8,
+    "end": 119.12,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Johnson",
+    "start": 119.12,
+    "end": 119.54,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "and",
+    "start": 119.54,
+    "end": 119.86,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Trump",
+    "start": 119.86,
+    "end": 120.08,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "here?",
+    "start": 120.08,
+    "end": 120.44,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Well,",
+    "start": 121.22,
+    "end": 121.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "significant",
+    "start": 121.62,
+    "end": 121.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "in",
+    "start": 121.8,
+    "end": 122.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 122.0,
+    "end": 122.08,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "sense",
+    "start": 122.08,
+    "end": 122.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "of",
+    "start": 122.22,
+    "end": 122.44,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "showing",
+    "start": 122.44,
+    "end": 122.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "a",
+    "start": 122.58,
+    "end": 122.9,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "unified",
+    "start": 122.9,
+    "end": 123.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Republican",
+    "start": 123.42,
+    "end": 124.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "party",
+    "start": 124.02,
+    "end": 124.88,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "around",
+    "start": 124.88,
+    "end": 125.5,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Donald",
+    "start": 125.5,
+    "end": 125.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Trump's",
+    "start": 125.94,
+    "end": 126.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "dominance",
+    "start": 126.52,
+    "end": 126.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "in",
+    "start": 126.96,
+    "end": 127.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "it.",
+    "start": 127.22,
+    "end": 127.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "It",
+    "start": 127.8,
+    "end": 127.98,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "should",
+    "start": 127.98,
+    "end": 128.18,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "not",
+    "start": 128.18,
+    "end": 128.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "surprise",
+    "start": 128.38,
+    "end": 128.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "anyone.",
+    "start": 128.74,
+    "end": 129.1,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "One",
+    "start": 129.34,
+    "end": 129.44,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "noted",
+    "start": 129.44,
+    "end": 130.04,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 130.04,
+    "end": 131.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "speaker",
+    "start": 131.12,
+    "end": 131.44,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "has",
+    "start": 131.44,
+    "end": 131.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "made",
+    "start": 131.8,
+    "end": 131.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "his",
+    "start": 131.94,
+    "end": 132.2,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "endorsement",
+    "start": 132.2,
+    "end": 132.98,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "of",
+    "start": 132.98,
+    "end": 133.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Trump",
+    "start": 133.12,
+    "end": 133.5,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "quite",
+    "start": 133.5,
+    "end": 133.86,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "clear.",
+    "start": 133.86,
+    "end": 134.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "He",
+    "start": 134.9,
+    "end": 135.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "was",
+    "start": 135.0,
+    "end": 135.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "one",
+    "start": 135.34,
+    "end": 135.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "of",
+    "start": 135.58,
+    "end": 135.68,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Donald",
+    "start": 135.68,
+    "end": 136.08,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Trump's",
+    "start": 136.08,
+    "end": 136.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "most",
+    "start": 136.94,
+    "end": 137.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "vociferous",
+    "start": 137.22,
+    "end": 137.82,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "supporters",
+    "start": 137.82,
+    "end": 138.5,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "in",
+    "start": 138.5,
+    "end": 139.56,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 139.56,
+    "end": 139.82,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Congress",
+    "start": 139.82,
+    "end": 140.2,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "when",
+    "start": 140.2,
+    "end": 140.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Donald",
+    "start": 140.46,
+    "end": 140.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Trump",
+    "start": 140.8,
+    "end": 141.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "was",
+    "start": 141.0,
+    "end": 141.18,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "in",
+    "start": 141.18,
+    "end": 141.36,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "office,",
+    "start": 141.36,
+    "end": 141.62,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "including",
+    "start": 141.88,
+    "end": 142.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "in",
+    "start": 142.34,
+    "end": 143.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "his",
+    "start": 143.34,
+    "end": 143.68,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "efforts",
+    "start": 143.68,
+    "end": 144.04,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 144.04,
+    "end": 144.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "subvert",
+    "start": 144.4,
+    "end": 145.3,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 145.3,
+    "end": 146.7,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "legitimate",
+    "start": 146.7,
+    "end": 147.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "2020",
+    "start": 147.34,
+    "end": 147.88,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "election",
+    "start": 147.88,
+    "end": 148.28,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "results.",
+    "start": 148.28,
+    "end": 148.72,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "So,",
+    "start": 149.68,
+    "end": 149.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "you",
+    "start": 149.74,
+    "end": 150.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "know,",
+    "start": 150.6,
+    "end": 151.04,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 151.66,
+    "end": 151.88,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "speaker",
+    "start": 151.88,
+    "end": 152.28,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "is",
+    "start": 152.28,
+    "end": 152.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "a",
+    "start": 152.94,
+    "end": 153.18,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Trump",
+    "start": 153.18,
+    "end": 153.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "ally",
+    "start": 153.4,
+    "end": 153.72,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 153.72,
+    "end": 153.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "he",
+    "start": 153.92,
+    "end": 154.2,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "identifies",
+    "start": 154.2,
+    "end": 154.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "as",
+    "start": 154.66,
+    "end": 154.88,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "such.",
+    "start": 154.88,
+    "end": 154.98,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "I",
+    "start": 155.12,
+    "end": 155.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "just",
+    "start": 155.12,
+    "end": 155.3,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "think",
+    "start": 155.3,
+    "end": 155.54,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "it's",
+    "start": 155.54,
+    "end": 156.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "worth",
+    "start": 156.22,
+    "end": 156.5,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "noting",
+    "start": 156.5,
+    "end": 156.84,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "here",
+    "start": 156.84,
+    "end": 157.44,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "since",
+    "start": 157.44,
+    "end": 158.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "he's",
+    "start": 158.22,
+    "end": 158.5,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "become",
+    "start": 158.5,
+    "end": 158.72,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "speaker,",
+    "start": 158.72,
+    "end": 159.16,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "he's",
+    "start": 159.42,
+    "end": 159.62,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "now",
+    "start": 159.62,
+    "end": 159.84,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "passed",
+    "start": 159.84,
+    "end": 160.06,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "a",
+    "start": 160.06,
+    "end": 160.28,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "government",
+    "start": 160.28,
+    "end": 160.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "funding",
+    "start": 160.6,
+    "end": 161.04,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "bill",
+    "start": 161.04,
+    "end": 161.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "without",
+    "start": 161.74,
+    "end": 162.48,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "spending",
+    "start": 162.48,
+    "end": 163.1,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "cuts",
+    "start": 163.1,
+    "end": 163.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 163.66,
+    "end": 164.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "sort",
+    "start": 164.58,
+    "end": 164.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "of",
+    "start": 164.94,
+    "end": 165.06,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "a",
+    "start": 165.06,
+    "end": 165.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "clean",
+    "start": 165.22,
+    "end": 165.44,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "continuing",
+    "start": 165.44,
+    "end": 165.78,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "resolution",
+    "start": 165.78,
+    "end": 166.2,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 166.2,
+    "end": 166.5,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "did",
+    "start": 166.5,
+    "end": 166.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "so",
+    "start": 166.66,
+    "end": 166.88,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "mostly",
+    "start": 166.88,
+    "end": 167.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "with",
+    "start": 167.14,
+    "end": 167.36,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Democratic",
+    "start": 167.36,
+    "end": 167.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "help.",
+    "start": 167.94,
+    "end": 168.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "And",
+    "start": 168.56,
+    "end": 168.76,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "now",
+    "start": 168.76,
+    "end": 168.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "he's",
+    "start": 168.96,
+    "end": 169.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "gone",
+    "start": 169.14,
+    "end": 169.3,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "down",
+    "start": 169.3,
+    "end": 169.5,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 169.5,
+    "end": 169.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Mar",
+    "start": 169.6,
+    "end": 169.78,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "-a",
+    "start": 169.78,
+    "end": 169.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "-Lago",
+    "start": 169.92,
+    "end": 170.18,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 170.18,
+    "end": 170.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "make",
+    "start": 170.92,
+    "end": 171.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "sure",
+    "start": 171.12,
+    "end": 171.28,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that",
+    "start": 171.28,
+    "end": 171.48,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Donald",
+    "start": 171.48,
+    "end": 171.68,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Trump",
+    "start": 171.68,
+    "end": 171.84,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "knows",
+    "start": 171.84,
+    "end": 172.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that",
+    "start": 172.22,
+    "end": 172.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "he",
+    "start": 172.52,
+    "end": 172.7,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "is",
+    "start": 172.7,
+    "end": 173.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "indeed",
+    "start": 173.0,
+    "end": 173.26,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 173.26,
+    "end": 173.48,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "leader",
+    "start": 173.48,
+    "end": 173.68,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "of",
+    "start": 173.68,
+    "end": 173.88,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "all",
+    "start": 173.88,
+    "end": 174.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "these",
+    "start": 174.02,
+    "end": 174.16,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Republicans.",
+    "start": 174.16,
+    "end": 174.5,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "It",
+    "start": 174.66,
+    "end": 174.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "sounds",
+    "start": 174.74,
+    "end": 174.88,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "a",
+    "start": 174.88,
+    "end": 175.06,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "lot",
+    "start": 175.06,
+    "end": 175.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "like",
+    "start": 175.46,
+    "end": 175.9,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 175.9,
+    "end": 176.08,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "old",
+    "start": 176.08,
+    "end": 176.24,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "speaker,",
+    "start": 176.24,
+    "end": 176.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Kevin",
+    "start": 176.62,
+    "end": 176.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "McCarthy.",
+    "start": 176.74,
+    "end": 177.08,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Yeah.",
+    "start": 177.98,
+    "end": 178.24,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Well,",
+    "start": 178.3,
+    "end": 178.56,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "and",
+    "start": 178.56,
+    "end": 179.0,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "at",
+    "start": 179.0,
+    "end": 179.16,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "least",
+    "start": 179.16,
+    "end": 179.34,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "his",
+    "start": 179.34,
+    "end": 179.76,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "debut",
+    "start": 179.76,
+    "end": 180.48,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "as",
+    "start": 180.48,
+    "end": 181.08,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "speaker",
+    "start": 181.08,
+    "end": 181.36,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "is",
+    "start": 181.36,
+    "end": 181.74,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "a",
+    "start": 181.74,
+    "end": 181.86,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "little",
+    "start": 181.86,
+    "end": 181.98,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "different",
+    "start": 181.98,
+    "end": 182.32,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "than",
+    "start": 182.32,
+    "end": 182.58,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "McCarthy's",
+    "start": 182.58,
+    "end": 183.26,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "was.",
+    "start": 183.26,
+    "end": 183.6,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "But",
+    "start": 183.8,
+    "end": 184.12,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "agreed.",
+    "start": 184.12,
+    "end": 184.76,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "You",
+    "start": 184.88,
+    "end": 185.02,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "know,",
+    "start": 185.02,
+    "end": 185.18,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "it's",
+    "start": 185.18,
+    "end": 185.72,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "a",
+    "start": 185.72,
+    "end": 186.12,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "situation",
+    "start": 186.12,
+    "end": 186.6,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "where",
+    "start": 186.6,
+    "end": 186.88,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "it",
+    "start": 186.88,
+    "end": 187.32,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "has",
+    "start": 187.32,
+    "end": 187.66,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "gone",
+    "start": 187.66,
+    "end": 187.98,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "about",
+    "start": 187.98,
+    "end": 188.36,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "as",
+    "start": 188.36,
+    "end": 188.84,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "smoothly",
+    "start": 188.84,
+    "end": 189.18,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "as",
+    "start": 189.18,
+    "end": 189.38,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "you",
+    "start": 189.38,
+    "end": 189.48,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "could",
+    "start": 189.48,
+    "end": 189.92,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "hope",
+    "start": 189.92,
+    "end": 190.3,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "for",
+    "start": 190.3,
+    "end": 190.8,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "to",
+    "start": 190.8,
+    "end": 191.18,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "establish",
+    "start": 191.18,
+    "end": 191.66,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "your",
+    "start": 191.66,
+    "end": 192.3,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "lead",
+    "start": 192.3,
+    "end": 192.64,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "as",
+    "start": 192.64,
+    "end": 193.52,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "a",
+    "start": 193.52,
+    "end": 194.02,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Republican",
+    "start": 194.02,
+    "end": 194.36,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "leader.",
+    "start": 194.36,
+    "end": 194.64,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Now,",
+    "start": 194.9,
+    "end": 195.1,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "I",
+    "start": 195.1,
+    "end": 195.32,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "want",
+    "start": 195.32,
+    "end": 195.5,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "to",
+    "start": 195.5,
+    "end": 195.52,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "jump",
+    "start": 195.52,
+    "end": 195.78,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "to",
+    "start": 195.78,
+    "end": 196.18,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "something",
+    "start": 196.18,
+    "end": 196.4,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "else",
+    "start": 196.4,
+    "end": 196.64,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "where",
+    "start": 196.64,
+    "end": 196.86,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 196.86,
+    "end": 197.04,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "general",
+    "start": 197.04,
+    "end": 197.24,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "election",
+    "start": 197.24,
+    "end": 197.54,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "presidential",
+    "start": 197.54,
+    "end": 197.94,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "debate",
+    "start": 197.94,
+    "end": 198.18,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "calendar",
+    "start": 198.18,
+    "end": 198.46,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "was",
+    "start": 198.46,
+    "end": 199.22,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "released.",
+    "start": 199.22,
+    "end": 199.5,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "There",
+    "start": 199.56,
+    "end": 199.72,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "are",
+    "start": 199.72,
+    "end": 199.74,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "some",
+    "start": 199.74,
+    "end": 199.9,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "tweaks",
+    "start": 199.9,
+    "end": 200.2,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "this",
+    "start": 200.2,
+    "end": 200.56,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "time,",
+    "start": 200.56,
+    "end": 201.0,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "you",
+    "start": 201.0,
+    "end": 201.12,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "know,",
+    "start": 201.12,
+    "end": 201.34,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "including",
+    "start": 201.4,
+    "end": 201.6,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 201.6,
+    "end": 201.84,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "debates",
+    "start": 201.84,
+    "end": 202.02,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "ending",
+    "start": 202.02,
+    "end": 202.2,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "a",
+    "start": 202.2,
+    "end": 202.34,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "little",
+    "start": 202.34,
+    "end": 202.46,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "earlier",
+    "start": 202.46,
+    "end": 202.92,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "than",
+    "start": 202.92,
+    "end": 203.26,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "they",
+    "start": 203.26,
+    "end": 203.44,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "ever",
+    "start": 203.44,
+    "end": 203.68,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "have",
+    "start": 203.68,
+    "end": 203.82,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "before",
+    "start": 203.82,
+    "end": 204.1,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Election",
+    "start": 204.1,
+    "end": 204.48,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Day.",
+    "start": 204.48,
+    "end": 204.66,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "What",
+    "start": 204.74,
+    "end": 204.96,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "do",
+    "start": 204.96,
+    "end": 205.1,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "we",
+    "start": 205.1,
+    "end": 205.22,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "know",
+    "start": 205.22,
+    "end": 205.6,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "about",
+    "start": 205.6,
+    "end": 205.96,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 205.96,
+    "end": 206.2,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "schedule",
+    "start": 206.2,
+    "end": 206.46,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "of",
+    "start": 206.46,
+    "end": 206.68,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "debates",
+    "start": 206.68,
+    "end": 206.86,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "here?",
+    "start": 206.86,
+    "end": 207.18,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "We",
+    "start": 207.92,
+    "end": 207.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "should",
+    "start": 207.96,
+    "end": 208.1,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "make",
+    "start": 208.1,
+    "end": 208.24,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "clear",
+    "start": 208.24,
+    "end": 208.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "this",
+    "start": 208.38,
+    "end": 208.54,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "is",
+    "start": 208.54,
+    "end": 208.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 208.74,
+    "end": 208.86,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Commission",
+    "start": 208.86,
+    "end": 209.08,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "on",
+    "start": 209.08,
+    "end": 209.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Presidential",
+    "start": 209.34,
+    "end": 209.72,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Debates",
+    "start": 209.72,
+    "end": 210.16,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that",
+    "start": 210.16,
+    "end": 210.68,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "has",
+    "start": 210.68,
+    "end": 211.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "hosted",
+    "start": 211.0,
+    "end": 211.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "presidential",
+    "start": 211.6,
+    "end": 212.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "debates",
+    "start": 212.12,
+    "end": 212.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "going",
+    "start": 212.4,
+    "end": 212.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "back",
+    "start": 212.58,
+    "end": 212.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 212.8,
+    "end": 213.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "1988,",
+    "start": 213.02,
+    "end": 213.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Omar.",
+    "start": 213.76,
+    "end": 213.88,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "But",
+    "start": 214.3,
+    "end": 214.78,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "debates",
+    "start": 214.78,
+    "end": 215.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "don't",
+    "start": 215.0,
+    "end": 215.26,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "happen",
+    "start": 215.26,
+    "end": 215.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "unless",
+    "start": 215.58,
+    "end": 215.84,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "both",
+    "start": 215.84,
+    "end": 216.2,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "candidates",
+    "start": 216.2,
+    "end": 216.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "agree",
+    "start": 216.8,
+    "end": 217.7,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 217.7,
+    "end": 218.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "debate.",
+    "start": 218.14,
+    "end": 218.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "And",
+    "start": 218.64,
+    "end": 218.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "we're",
+    "start": 218.64,
+    "end": 218.88,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "far",
+    "start": 218.88,
+    "end": 219.18,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "away",
+    "start": 219.18,
+    "end": 219.44,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "from",
+    "start": 219.44,
+    "end": 219.62,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that.",
+    "start": 219.62,
+    "end": 219.88,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "So",
+    "start": 219.9,
+    "end": 220.24,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "this",
+    "start": 220.24,
+    "end": 220.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "is",
+    "start": 220.66,
+    "end": 220.9,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "not",
+    "start": 220.9,
+    "end": 221.1,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "set",
+    "start": 221.1,
+    "end": 221.3,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "in",
+    "start": 221.3,
+    "end": 221.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "stone.",
+    "start": 221.58,
+    "end": 221.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "But",
+    "start": 221.8,
+    "end": 221.98,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 221.98,
+    "end": 222.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Commission",
+    "start": 222.46,
+    "end": 222.76,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "on",
+    "start": 222.76,
+    "end": 223.06,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Presidential",
+    "start": 223.06,
+    "end": 223.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Debates",
+    "start": 223.38,
+    "end": 223.72,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "did",
+    "start": 223.72,
+    "end": 223.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "reveal",
+    "start": 223.94,
+    "end": 224.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 224.46,
+    "end": 224.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "dates",
+    "start": 224.94,
+    "end": 225.1,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 225.1,
+    "end": 225.3,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "locations.",
+    "start": 225.3,
+    "end": 225.7,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "And",
+    "start": 225.72,
+    "end": 225.86,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "as",
+    "start": 225.86,
+    "end": 226.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "you",
+    "start": 226.0,
+    "end": 226.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "noted,",
+    "start": 226.14,
+    "end": 226.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "September",
+    "start": 226.44,
+    "end": 226.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "16th,",
+    "start": 227.24,
+    "end": 227.72,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "circle",
+    "start": 227.74,
+    "end": 227.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "it",
+    "start": 227.92,
+    "end": 228.04,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "on",
+    "start": 228.04,
+    "end": 228.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "your",
+    "start": 228.14,
+    "end": 228.36,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "calendar,",
+    "start": 228.36,
+    "end": 228.7,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "is",
+    "start": 229.12,
+    "end": 229.24,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 229.24,
+    "end": 229.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "first",
+    "start": 229.6,
+    "end": 230.08,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "presidential",
+    "start": 230.08,
+    "end": 230.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "debate",
+    "start": 230.6,
+    "end": 231.04,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "down",
+    "start": 231.04,
+    "end": 231.54,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "in",
+    "start": 231.54,
+    "end": 231.78,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "San",
+    "start": 231.78,
+    "end": 231.98,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Marcos,",
+    "start": 231.98,
+    "end": 232.26,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Texas.",
+    "start": 232.26,
+    "end": 232.56,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "This",
+    "start": 232.62,
+    "end": 232.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "is",
+    "start": 232.8,
+    "end": 233.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 233.0,
+    "end": 233.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "earliest",
+    "start": 233.22,
+    "end": 233.68,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "we've",
+    "start": 233.68,
+    "end": 234.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "seen",
+    "start": 234.22,
+    "end": 234.36,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "a",
+    "start": 234.36,
+    "end": 234.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "presidential",
+    "start": 234.6,
+    "end": 234.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "debate,",
+    "start": 234.96,
+    "end": 235.16,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "which,",
+    "start": 235.18,
+    "end": 235.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "by",
+    "start": 235.42,
+    "end": 235.54,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 235.54,
+    "end": 235.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "way,",
+    "start": 235.66,
+    "end": 235.9,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "was",
+    "start": 236.0,
+    "end": 236.16,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "one",
+    "start": 236.16,
+    "end": 236.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "of",
+    "start": 236.38,
+    "end": 236.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 236.52,
+    "end": 236.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Republican",
+    "start": 236.8,
+    "end": 237.2,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "demands.",
+    "start": 237.2,
+    "end": 237.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "The",
+    "start": 237.72,
+    "end": 237.84,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Republican",
+    "start": 237.84,
+    "end": 238.16,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "National",
+    "start": 238.16,
+    "end": 238.54,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Committee",
+    "start": 238.54,
+    "end": 239.06,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "has",
+    "start": 239.06,
+    "end": 239.36,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "been",
+    "start": 239.36,
+    "end": 239.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "in",
+    "start": 239.52,
+    "end": 239.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "a",
+    "start": 239.66,
+    "end": 239.82,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "public",
+    "start": 239.82,
+    "end": 240.16,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "feud",
+    "start": 240.16,
+    "end": 240.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "with",
+    "start": 240.52,
+    "end": 240.9,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 240.9,
+    "end": 241.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Commission",
+    "start": 241.12,
+    "end": 241.32,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "on",
+    "start": 241.32,
+    "end": 241.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Presidential",
+    "start": 241.6,
+    "end": 242.06,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Debates.",
+    "start": 242.06,
+    "end": 242.62,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "And",
+    "start": 242.62,
+    "end": 242.98,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "one",
+    "start": 242.98,
+    "end": 243.16,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "of",
+    "start": 243.16,
+    "end": 243.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "their",
+    "start": 243.4,
+    "end": 243.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "big",
+    "start": 243.66,
+    "end": 243.98,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "sticking",
+    "start": 243.98,
+    "end": 244.3,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "points",
+    "start": 244.3,
+    "end": 244.68,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "about",
+    "start": 244.68,
+    "end": 245.06,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "even",
+    "start": 245.06,
+    "end": 245.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "agreeing",
+    "start": 245.66,
+    "end": 246.44,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "should",
+    "start": 246.44,
+    "end": 247.04,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "their",
+    "start": 247.04,
+    "end": 247.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "nominee",
+    "start": 247.4,
+    "end": 247.68,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "agree",
+    "start": 247.68,
+    "end": 247.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 247.92,
+    "end": 248.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "participate",
+    "start": 248.14,
+    "end": 248.62,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "in",
+    "start": 248.62,
+    "end": 249.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "these",
+    "start": 249.02,
+    "end": 249.26,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "debates",
+    "start": 249.26,
+    "end": 249.56,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "is",
+    "start": 249.56,
+    "end": 250.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that",
+    "start": 250.02,
+    "end": 250.48,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 250.48,
+    "end": 250.84,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "debates",
+    "start": 250.84,
+    "end": 251.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "were",
+    "start": 251.02,
+    "end": 251.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "too",
+    "start": 251.22,
+    "end": 251.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "late",
+    "start": 251.46,
+    "end": 251.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 251.6,
+    "end": 251.72,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "they",
+    "start": 251.72,
+    "end": 251.86,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "were",
+    "start": 251.86,
+    "end": 252.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "missing",
+    "start": 252.14,
+    "end": 252.56,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "early",
+    "start": 252.56,
+    "end": 253.18,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "voters.",
+    "start": 253.18,
+    "end": 253.68,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Lots",
+    "start": 253.9,
+    "end": 254.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "of",
+    "start": 254.34,
+    "end": 254.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "people",
+    "start": 254.52,
+    "end": 254.68,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "are",
+    "start": 254.68,
+    "end": 254.86,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "voting",
+    "start": 254.86,
+    "end": 255.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "early",
+    "start": 255.02,
+    "end": 255.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "now.",
+    "start": 255.34,
+    "end": 255.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "The",
+    "start": 255.56,
+    "end": 255.72,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "other",
+    "start": 255.72,
+    "end": 256.24,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "note",
+    "start": 256.24,
+    "end": 256.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "is",
+    "start": 256.52,
+    "end": 256.84,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that",
+    "start": 256.84,
+    "end": 257.3,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "in",
+    "start": 257.3,
+    "end": 257.78,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 257.78,
+    "end": 257.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "announcement",
+    "start": 257.96,
+    "end": 258.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "was",
+    "start": 258.34,
+    "end": 258.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 258.64,
+    "end": 258.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "first",
+    "start": 258.92,
+    "end": 259.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "ever",
+    "start": 259.14,
+    "end": 259.76,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "HBCU,",
+    "start": 259.76,
+    "end": 260.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "historically",
+    "start": 260.7,
+    "end": 261.04,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Black",
+    "start": 261.04,
+    "end": 261.3,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "College",
+    "start": 261.3,
+    "end": 261.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 261.6,
+    "end": 261.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "University,",
+    "start": 261.74,
+    "end": 262.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "down",
+    "start": 262.5,
+    "end": 262.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "in",
+    "start": 262.8,
+    "end": 262.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Virginia",
+    "start": 262.96,
+    "end": 263.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that",
+    "start": 263.42,
+    "end": 263.78,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "will",
+    "start": 263.78,
+    "end": 263.86,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "be",
+    "start": 263.86,
+    "end": 263.98,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "hosting",
+    "start": 263.98,
+    "end": 264.16,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "a",
+    "start": 264.16,
+    "end": 264.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "presidential",
+    "start": 264.38,
+    "end": 264.7,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "debate.",
+    "start": 264.7,
+    "end": 264.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "We've",
+    "start": 264.98,
+    "end": 265.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "never",
+    "start": 265.14,
+    "end": 265.3,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "seen",
+    "start": 265.3,
+    "end": 265.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that",
+    "start": 265.42,
+    "end": 265.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "before",
+    "start": 265.64,
+    "end": 265.88,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "either.",
+    "start": 265.88,
+    "end": 266.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Yeah.",
+    "start": 266.86,
+    "end": 267.2,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "And",
+    "start": 267.28,
+    "end": 267.66,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "look,",
+    "start": 267.66,
+    "end": 267.84,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "we",
+    "start": 267.84,
+    "end": 268.06,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "don't",
+    "start": 268.06,
+    "end": 268.36,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "know",
+    "start": 268.36,
+    "end": 268.68,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "what",
+    "start": 268.68,
+    "end": 268.92,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 268.92,
+    "end": 269.12,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "picture",
+    "start": 269.12,
+    "end": 269.36,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "you",
+    "start": 269.36,
+    "end": 269.76,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "point",
+    "start": 269.76,
+    "end": 270.04,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "out",
+    "start": 270.04,
+    "end": 270.54,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "very",
+    "start": 270.54,
+    "end": 271.08,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "aptly",
+    "start": 271.08,
+    "end": 271.38,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "that",
+    "start": 271.38,
+    "end": 271.5,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "we",
+    "start": 271.5,
+    "end": 271.66,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "don't",
+    "start": 271.66,
+    "end": 271.92,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "we",
+    "start": 271.92,
+    "end": 272.12,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "won't",
+    "start": 272.12,
+    "end": 276.42,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 276.42,
+    "end": 276.56,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "White",
+    "start": 276.56,
+    "end": 276.8,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "House",
+    "start": 276.8,
+    "end": 277.06,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "is",
+    "start": 277.06,
+    "end": 277.2,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "saying",
+    "start": 277.2,
+    "end": 277.4,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "it",
+    "start": 277.4,
+    "end": 277.76,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "won't",
+    "start": 277.76,
+    "end": 278.04,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "govern",
+    "start": 278.04,
+    "end": 278.32,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "by",
+    "start": 278.32,
+    "end": 278.62,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "polls",
+    "start": 278.62,
+    "end": 279.06,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "leading",
+    "start": 279.06,
+    "end": 279.36,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "up",
+    "start": 279.36,
+    "end": 279.62,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "to",
+    "start": 279.62,
+    "end": 279.8,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "that",
+    "start": 279.8,
+    "end": 279.98,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "as",
+    "start": 279.98,
+    "end": 280.3,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Biden's",
+    "start": 280.3,
+    "end": 281.22,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "approval",
+    "start": 281.22,
+    "end": 281.38,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "ratings",
+    "start": 281.38,
+    "end": 281.66,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "haven't",
+    "start": 281.66,
+    "end": 281.88,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "been",
+    "start": 281.88,
+    "end": 282.08,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "great",
+    "start": 282.08,
+    "end": 282.3,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "as",
+    "start": 282.3,
+    "end": 282.54,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "far",
+    "start": 282.54,
+    "end": 282.68,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "as",
+    "start": 282.68,
+    "end": 282.86,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "polls",
+    "start": 282.86,
+    "end": 283.14,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "go.",
+    "start": 283.14,
+    "end": 283.44,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "But",
+    "start": 283.48,
+    "end": 283.62,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "what",
+    "start": 283.62,
+    "end": 283.82,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "is",
+    "start": 283.82,
+    "end": 284.14,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 284.14,
+    "end": 284.42,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "reality",
+    "start": 284.42,
+    "end": 284.84,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "here",
+    "start": 284.84,
+    "end": 285.44,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "for",
+    "start": 285.44,
+    "end": 285.98,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Team",
+    "start": 285.98,
+    "end": 286.28,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Biden?",
+    "start": 286.28,
+    "end": 286.66,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Well,",
+    "start": 288.32,
+    "end": 288.82,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "obviously,",
+    "start": 288.82,
+    "end": 289.32,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "when",
+    "start": 289.64,
+    "end": 290.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Kareem",
+    "start": 290.02,
+    "end": 290.3,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Jean",
+    "start": 290.3,
+    "end": 290.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "-Pierre,",
+    "start": 290.46,
+    "end": 290.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 290.78,
+    "end": 290.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "press",
+    "start": 290.96,
+    "end": 291.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "secretary",
+    "start": 291.14,
+    "end": 291.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "was",
+    "start": 291.34,
+    "end": 291.56,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "asked",
+    "start": 291.56,
+    "end": 291.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that",
+    "start": 291.8,
+    "end": 292.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "question,",
+    "start": 292.0,
+    "end": 292.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "was",
+    "start": 292.32,
+    "end": 292.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 292.34,
+    "end": 292.54,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "context",
+    "start": 292.54,
+    "end": 292.86,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "of",
+    "start": 292.86,
+    "end": 293.08,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 293.08,
+    "end": 293.2,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Israel",
+    "start": 293.2,
+    "end": 293.78,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Hamas",
+    "start": 293.78,
+    "end": 294.36,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "war.",
+    "start": 294.36,
+    "end": 294.62,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "And",
+    "start": 295.16,
+    "end": 295.2,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 295.2,
+    "end": 295.68,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "president's",
+    "start": 295.68,
+    "end": 296.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "numbers",
+    "start": 296.12,
+    "end": 296.26,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "are",
+    "start": 296.26,
+    "end": 296.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "upside",
+    "start": 296.46,
+    "end": 296.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "down",
+    "start": 296.8,
+    "end": 297.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "on",
+    "start": 297.02,
+    "end": 297.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "his",
+    "start": 297.14,
+    "end": 297.32,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "handling",
+    "start": 297.32,
+    "end": 297.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "of",
+    "start": 297.64,
+    "end": 297.82,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that,",
+    "start": 297.82,
+    "end": 298.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "no",
+    "start": 298.4,
+    "end": 298.98,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "doubt.",
+    "start": 298.98,
+    "end": 299.36,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "But",
+    "start": 299.7,
+    "end": 300.08,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "I",
+    "start": 300.08,
+    "end": 300.32,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "would",
+    "start": 300.32,
+    "end": 300.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "just",
+    "start": 300.46,
+    "end": 300.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "note",
+    "start": 300.74,
+    "end": 301.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "what",
+    "start": 301.0,
+    "end": 301.48,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "we",
+    "start": 301.48,
+    "end": 301.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "have",
+    "start": 301.74,
+    "end": 301.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "been",
+    "start": 301.8,
+    "end": 301.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "reporting",
+    "start": 301.96,
+    "end": 302.36,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 302.36,
+    "end": 302.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "seeing",
+    "start": 302.64,
+    "end": 302.76,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "in",
+    "start": 302.76,
+    "end": 302.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 302.92,
+    "end": 306.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "campaign,",
+    "start": 306.4,
+    "end": 306.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 307.14,
+    "end": 307.24,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "president",
+    "start": 307.24,
+    "end": 307.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "himself",
+    "start": 307.52,
+    "end": 308.06,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 308.06,
+    "end": 308.78,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 308.78,
+    "end": 308.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "White",
+    "start": 308.96,
+    "end": 309.18,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "House",
+    "start": 309.18,
+    "end": 309.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "is",
+    "start": 309.38,
+    "end": 309.72,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "this",
+    "start": 309.72,
+    "end": 310.04,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "contrast",
+    "start": 310.04,
+    "end": 310.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "campaign",
+    "start": 310.52,
+    "end": 311.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "with",
+    "start": 311.02,
+    "end": 311.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Donald",
+    "start": 311.42,
+    "end": 311.76,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Trump.",
+    "start": 311.76,
+    "end": 312.04,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "And",
+    "start": 312.12,
+    "end": 312.32,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "I",
+    "start": 312.32,
+    "end": 312.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "thought",
+    "start": 312.64,
+    "end": 312.78,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "this",
+    "start": 312.78,
+    "end": 313.04,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "NBC",
+    "start": 313.04,
+    "end": 313.36,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "News",
+    "start": 313.36,
+    "end": 313.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "poll",
+    "start": 313.6,
+    "end": 313.7,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that",
+    "start": 313.7,
+    "end": 313.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "came",
+    "start": 313.92,
+    "end": 314.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "out",
+    "start": 314.02,
+    "end": 314.2,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "this",
+    "start": 314.2,
+    "end": 314.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "week",
+    "start": 314.4,
+    "end": 314.72,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "explains",
+    "start": 314.72,
+    "end": 315.32,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "perfectly",
+    "start": 315.32,
+    "end": 315.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "why",
+    "start": 315.8,
+    "end": 316.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that",
+    "start": 316.14,
+    "end": 316.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "is",
+    "start": 316.42,
+    "end": 316.62,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "because",
+    "start": 316.62,
+    "end": 317.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "they",
+    "start": 317.12,
+    "end": 317.78,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "asked",
+    "start": 317.78,
+    "end": 318.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "among",
+    "start": 318.12,
+    "end": 318.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Biden",
+    "start": 318.66,
+    "end": 319.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "voters,",
+    "start": 319.34,
+    "end": 319.98,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "are",
+    "start": 320.56,
+    "end": 320.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "you",
+    "start": 320.74,
+    "end": 321.26,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "more",
+    "start": 321.26,
+    "end": 321.7,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "casting",
+    "start": 321.7,
+    "end": 322.1,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "your",
+    "start": 322.1,
+    "end": 322.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "vote",
+    "start": 322.58,
+    "end": 322.84,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "in",
+    "start": 322.84,
+    "end": 323.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "support",
+    "start": 323.66,
+    "end": 324.08,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "of",
+    "start": 324.08,
+    "end": 324.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "for",
+    "start": 324.4,
+    "end": 324.7,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Joe",
+    "start": 324.7,
+    "end": 324.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Biden",
+    "start": 324.92,
+    "end": 325.2,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "or",
+    "start": 325.2,
+    "end": 325.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "more",
+    "start": 325.66,
+    "end": 325.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "against",
+    "start": 325.92,
+    "end": 326.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Donald",
+    "start": 326.4,
+    "end": 326.76,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Trump?",
+    "start": 326.76,
+    "end": 327.18,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Two",
+    "start": 327.46,
+    "end": 327.62,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 327.62,
+    "end": 327.86,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "one.",
+    "start": 327.86,
+    "end": 328.18,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Sixty",
+    "start": 328.5,
+    "end": 328.84,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "three",
+    "start": 328.84,
+    "end": 328.98,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "percent",
+    "start": 328.98,
+    "end": 329.2,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "of",
+    "start": 329.2,
+    "end": 329.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Biden",
+    "start": 329.4,
+    "end": 329.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "voters",
+    "start": 329.6,
+    "end": 329.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "say",
+    "start": 329.92,
+    "end": 330.24,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "they're",
+    "start": 330.24,
+    "end": 330.56,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "voting",
+    "start": 330.56,
+    "end": 330.78,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "for",
+    "start": 330.78,
+    "end": 330.9,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Biden",
+    "start": 330.9,
+    "end": 331.3,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 331.3,
+    "end": 331.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "be",
+    "start": 331.66,
+    "end": 331.88,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "against",
+    "start": 331.88,
+    "end": 332.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Trump.",
+    "start": 332.22,
+    "end": 332.56,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Only",
+    "start": 333.08,
+    "end": 333.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "a",
+    "start": 333.12,
+    "end": 333.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "third,",
+    "start": 333.4,
+    "end": 333.62,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "31",
+    "start": 333.64,
+    "end": 334.06,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "percent",
+    "start": 334.06,
+    "end": 334.5,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "say",
+    "start": 334.5,
+    "end": 334.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "they're",
+    "start": 334.8,
+    "end": 335.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "voting",
+    "start": 335.02,
+    "end": 335.32,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "for",
+    "start": 335.32,
+    "end": 335.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Biden.",
+    "start": 335.66,
+    "end": 335.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Trump,",
+    "start": 336.2,
+    "end": 336.54,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 336.78,
+    "end": 337.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "motivating",
+    "start": 337.02,
+    "end": 337.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "factor",
+    "start": 337.46,
+    "end": 337.82,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "for",
+    "start": 337.82,
+    "end": 338.06,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Biden",
+    "start": 338.06,
+    "end": 338.28,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "voters.",
+    "start": 338.28,
+    "end": 338.56,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "And",
+    "start": 338.9,
+    "end": 339.04,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "by",
+    "start": 339.04,
+    "end": 339.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 339.22,
+    "end": 339.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "way,",
+    "start": 339.34,
+    "end": 339.44,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Omar,",
+    "start": 339.52,
+    "end": 339.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "if",
+    "start": 339.66,
+    "end": 339.82,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "you",
+    "start": 339.82,
+    "end": 339.98,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "flip",
+    "start": 339.98,
+    "end": 340.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "it",
+    "start": 340.22,
+    "end": 340.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 340.42,
+    "end": 340.56,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "look",
+    "start": 340.56,
+    "end": 340.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "at",
+    "start": 340.74,
+    "end": 340.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Trump",
+    "start": 340.96,
+    "end": 341.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "voters",
+    "start": 341.14,
+    "end": 341.5,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "in",
+    "start": 341.5,
+    "end": 341.86,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "this",
+    "start": 341.86,
+    "end": 342.08,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "NBC",
+    "start": 342.08,
+    "end": 342.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "poll,",
+    "start": 342.34,
+    "end": 342.78,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Trump's",
+    "start": 343.16,
+    "end": 343.48,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 343.48,
+    "end": 343.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "motivating",
+    "start": 343.66,
+    "end": 344.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "factor",
+    "start": 344.0,
+    "end": 344.32,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "there,",
+    "start": 344.32,
+    "end": 344.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "too.",
+    "start": 344.82,
+    "end": 344.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "He,",
+    "start": 345.42,
+    "end": 345.82,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "56",
+    "start": 346.14,
+    "end": 346.26,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "percent",
+    "start": 346.26,
+    "end": 346.62,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "of",
+    "start": 346.62,
+    "end": 346.76,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "his",
+    "start": 346.76,
+    "end": 346.98,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "supporters",
+    "start": 346.98,
+    "end": 347.28,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "say",
+    "start": 347.28,
+    "end": 347.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "they're",
+    "start": 347.46,
+    "end": 347.7,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "voting",
+    "start": 347.7,
+    "end": 348.1,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "for",
+    "start": 348.1,
+    "end": 348.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Trump",
+    "start": 348.52,
+    "end": 348.82,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 348.82,
+    "end": 349.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "be",
+    "start": 349.22,
+    "end": 349.48,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "for",
+    "start": 349.48,
+    "end": 349.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "him,",
+    "start": 349.74,
+    "end": 350.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "not",
+    "start": 350.14,
+    "end": 350.44,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "opposed",
+    "start": 350.44,
+    "end": 350.78,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 350.78,
+    "end": 350.98,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Biden.",
+    "start": 350.98,
+    "end": 351.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Only",
+    "start": 351.24,
+    "end": 351.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "37",
+    "start": 351.52,
+    "end": 352.04,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "percent",
+    "start": 352.04,
+    "end": 352.68,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "say",
+    "start": 352.68,
+    "end": 352.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that.",
+    "start": 352.94,
+    "end": 353.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "So",
+    "start": 353.56,
+    "end": 353.84,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "while",
+    "start": 353.84,
+    "end": 354.26,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 354.26,
+    "end": 354.7,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Biden",
+    "start": 354.7,
+    "end": 354.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "campaign",
+    "start": 354.96,
+    "end": 355.44,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "is",
+    "start": 355.44,
+    "end": 356.56,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "keen",
+    "start": 356.56,
+    "end": 356.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "on",
+    "start": 356.92,
+    "end": 357.24,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "making",
+    "start": 357.24,
+    "end": 357.48,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Donald",
+    "start": 357.48,
+    "end": 357.9,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Trump",
+    "start": 357.9,
+    "end": 358.16,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 358.16,
+    "end": 358.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "central",
+    "start": 358.4,
+    "end": 358.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "factor",
+    "start": 358.66,
+    "end": 358.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "in",
+    "start": 358.94,
+    "end": 359.08,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "this",
+    "start": 359.08,
+    "end": 359.28,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "race,",
+    "start": 359.28,
+    "end": 359.44,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that",
+    "start": 359.44,
+    "end": 359.7,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "is",
+    "start": 359.7,
+    "end": 359.9,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "a",
+    "start": 359.9,
+    "end": 360.1,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "motivating",
+    "start": 360.1,
+    "end": 360.48,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "force",
+    "start": 360.48,
+    "end": 360.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "for",
+    "start": 360.8,
+    "end": 361.36,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "its",
+    "start": 361.36,
+    "end": 361.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "supporters.",
+    "start": 361.66,
+    "end": 362.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "The",
+    "start": 362.76,
+    "end": 362.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "downside",
+    "start": 362.92,
+    "end": 363.24,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 363.24,
+    "end": 363.44,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that",
+    "start": 363.44,
+    "end": 363.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "is",
+    "start": 363.58,
+    "end": 363.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Donald",
+    "start": 363.96,
+    "end": 364.26,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Trump",
+    "start": 364.26,
+    "end": 364.44,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "being",
+    "start": 364.44,
+    "end": 364.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "central",
+    "start": 364.64,
+    "end": 364.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "in",
+    "start": 364.94,
+    "end": 365.1,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "this",
+    "start": 365.1,
+    "end": 365.28,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "campaign",
+    "start": 365.28,
+    "end": 365.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "is",
+    "start": 365.6,
+    "end": 365.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "also",
+    "start": 365.92,
+    "end": 366.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "a",
+    "start": 366.12,
+    "end": 366.3,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "motivating",
+    "start": 366.3,
+    "end": 366.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "fact",
+    "start": 366.6,
+    "end": 366.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "for",
+    "start": 366.92,
+    "end": 367.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "his",
+    "start": 367.6,
+    "end": 368.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "supporters.",
+    "start": 368.0,
+    "end": 368.5,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "We",
+    "start": 369.14,
+    "end": 369.52,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "will",
+    "start": 369.52,
+    "end": 369.84,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "see",
+    "start": 369.84,
+    "end": 369.98,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "what",
+    "start": 369.98,
+    "end": 370.14,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "happens.",
+    "start": 370.14,
+    "end": 370.52,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "And",
+    "start": 370.8,
+    "end": 370.84,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "David",
+    "start": 370.84,
+    "end": 370.96,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Challion,",
+    "start": 370.96,
+    "end": 371.24,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "I",
+    "start": 371.32,
+    "end": 371.34,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "know",
+    "start": 371.34,
+    "end": 371.46,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "you'll",
+    "start": 371.46,
+    "end": 371.62,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "be",
+    "start": 371.62,
+    "end": 371.74,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "on",
+    "start": 371.74,
+    "end": 371.86,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "top",
+    "start": 371.86,
+    "end": 371.98,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "of",
+    "start": 371.98,
+    "end": 372.08,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "it",
+    "start": 372.08,
+    "end": 372.2,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "all.",
+    "start": 372.2,
+    "end": 372.32,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Thanks",
+    "start": 372.38,
+    "end": 372.54,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "for",
+    "start": 372.54,
+    "end": 372.66,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "being",
+    "start": 372.66,
+    "end": 372.76,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "with",
+    "start": 372.76,
+    "end": 372.9,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "us.",
+    "start": 372.9,
+    "end": 373.06,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Thanks,",
+    "start": 373.14,
+    "end": 373.28,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Omar.",
+    "start": 373.32,
+    "end": 373.46,
+    "speaker": "SPEAKER_01"
+  }
+]

@@ -9,7 +9,7 @@ from weaviate.util import generate_uuid5
 from weaviate.classes.data import DataObject
 from weaviate.classes.query import MetadataQuery
 fa = FaceAnalysis(
-    name="antelopev2/antelopev2",
+    name="antelopev2",
     root = "/home/dsl/Desktop/chp/MultimodalEncoderVisualizer/",
     allowed_modules=['detection','recognition']
 )

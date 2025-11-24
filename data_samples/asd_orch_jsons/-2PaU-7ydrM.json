@@ -1,0 +1,4754 @@
+[
+  {
+    "word": "This",
+    "start": 0.0,
+    "end": 0.56,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "morning",
+    "start": 0.56,
+    "end": 0.88,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "one",
+    "start": 0.88,
+    "end": 1.06,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "of",
+    "start": 1.06,
+    "end": 1.18,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 1.18,
+    "end": 1.36,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "drag",
+    "start": 1.36,
+    "end": 1.54,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "queens",
+    "start": 1.54,
+    "end": 1.76,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "from",
+    "start": 1.76,
+    "end": 1.92,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "that",
+    "start": 1.92,
+    "end": 2.18,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "controversial",
+    "start": 2.18,
+    "end": 2.8,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "last",
+    "start": 2.8,
+    "end": 3.48,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "supper",
+    "start": 3.48,
+    "end": 3.92,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "parody",
+    "start": 3.92,
+    "end": 4.46,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "at",
+    "start": 4.46,
+    "end": 4.86,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 4.86,
+    "end": 5.02,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Olympics",
+    "start": 5.02,
+    "end": 5.38,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "opening",
+    "start": 5.38,
+    "end": 5.78,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "ceremony",
+    "start": 5.78,
+    "end": 6.46,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "doubling",
+    "start": 6.46,
+    "end": 6.94,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "down",
+    "start": 6.94,
+    "end": 7.5,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "as",
+    "start": 7.5,
+    "end": 8.1,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Backlash",
+    "start": 8.1,
+    "end": 8.74,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "grows",
+    "start": 8.74,
+    "end": 9.24,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 9.24,
+    "end": 9.76,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "performer",
+    "start": 9.76,
+    "end": 10.1,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "insisting",
+    "start": 10.1,
+    "end": 10.82,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "this",
+    "start": 10.82,
+    "end": 11.3,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "was",
+    "start": 11.3,
+    "end": 11.7,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "not",
+    "start": 11.7,
+    "end": 12.16,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 12.16,
+    "end": 12.66,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "last",
+    "start": 12.66,
+    "end": 13.04,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "supper",
+    "start": 13.04,
+    "end": 13.3,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "But",
+    "start": 13.3,
+    "end": 13.5,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "rather",
+    "start": 13.5,
+    "end": 13.76,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 13.76,
+    "end": 14.0,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "feast",
+    "start": 14.0,
+    "end": 14.24,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "of",
+    "start": 14.24,
+    "end": 14.5,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Dionysus",
+    "start": 14.5,
+    "end": 15.24,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "arguing",
+    "start": 15.24,
+    "end": 15.68,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "even",
+    "start": 15.68,
+    "end": 16.44,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "if",
+    "start": 16.44,
+    "end": 16.76,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "it",
+    "start": 16.76,
+    "end": 17.12,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "was",
+    "start": 17.12,
+    "end": 17.34,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 17.34,
+    "end": 17.58,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "last",
+    "start": 17.58,
+    "end": 17.8,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "supper",
+    "start": 17.8,
+    "end": 18.22,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "quote.",
+    "start": 18.22,
+    "end": 18.78,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "What's",
+    "start": 18.84,
+    "end": 19.44,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 19.44,
+    "end": 19.62,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "harm?",
+    "start": 19.62,
+    "end": 19.9,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Why",
+    "start": 20.28,
+    "end": 20.76,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "is",
+    "start": 20.76,
+    "end": 21.1,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "it",
+    "start": 21.1,
+    "end": 21.22,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "a",
+    "start": 21.22,
+    "end": 21.54,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "parody",
+    "start": 21.54,
+    "end": 21.8,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "and",
+    "start": 21.8,
+    "end": 22.1,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "not",
+    "start": 22.1,
+    "end": 22.26,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "a",
+    "start": 22.26,
+    "end": 22.48,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "tribute",
+    "start": 22.48,
+    "end": 22.76,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "and",
+    "start": 22.76,
+    "end": 23.12,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "can't",
+    "start": 23.12,
+    "end": 23.54,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "drag",
+    "start": 23.54,
+    "end": 23.72,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "queens",
+    "start": 23.72,
+    "end": 24.0,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "be",
+    "start": 24.0,
+    "end": 24.32,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Christians",
+    "start": 24.32,
+    "end": 24.88,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "to?",
+    "start": 24.88,
+    "end": 25.22,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Me",
+    "start": 25.22,
+    "end": 26.06,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "and",
+    "start": 26.06,
+    "end": 26.24,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "all",
+    "start": 26.24,
+    "end": 26.38,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "of",
+    "start": 26.38,
+    "end": 26.52,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 26.52,
+    "end": 26.66,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "organizers",
+    "start": 26.66,
+    "end": 27.1,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "apologizing",
+    "start": 27.1,
+    "end": 27.94,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "insisting",
+    "start": 27.94,
+    "end": 28.58,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "clearly",
+    "start": 28.58,
+    "end": 28.94,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "there",
+    "start": 28.94,
+    "end": 29.1,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "was",
+    "start": 29.1,
+    "end": 29.32,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "never",
+    "start": 29.32,
+    "end": 29.52,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "an",
+    "start": 29.52,
+    "end": 29.88,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "intention",
+    "start": 29.88,
+    "end": 30.4,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "to",
+    "start": 30.4,
+    "end": 30.7,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "show",
+    "start": 30.7,
+    "end": 30.84,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "disrespect",
+    "start": 30.84,
+    "end": 31.3,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "to",
+    "start": 31.3,
+    "end": 31.5,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "any",
+    "start": 31.5,
+    "end": 31.74,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "religious",
+    "start": 31.74,
+    "end": 32.08,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "group",
+    "start": 32.08,
+    "end": 32.38,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "We",
+    "start": 32.38,
+    "end": 32.9,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "really",
+    "start": 32.9,
+    "end": 33.28,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "did",
+    "start": 33.28,
+    "end": 33.5,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "try",
+    "start": 33.5,
+    "end": 33.76,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "to",
+    "start": 33.76,
+    "end": 34.16,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "celebrate",
+    "start": 34.16,
+    "end": 34.74,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "community",
+    "start": 34.74,
+    "end": 35.68,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "tolerance",
+    "start": 35.68,
+    "end": 36.62,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Jack",
+    "start": 36.62,
+    "end": 37.4,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Brewer",
+    "start": 37.4,
+    "end": 37.66,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "is",
+    "start": 37.66,
+    "end": 37.86,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "a",
+    "start": 37.86,
+    "end": 37.98,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "man",
+    "start": 37.98,
+    "end": 38.14,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "of",
+    "start": 38.14,
+    "end": 38.34,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "God",
+    "start": 38.34,
+    "end": 38.62,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "on",
+    "start": 38.62,
+    "end": 39.02,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "a",
+    "start": 39.02,
+    "end": 39.24,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "mission",
+    "start": 39.24,
+    "end": 39.46,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "to",
+    "start": 39.46,
+    "end": 39.68,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "spread",
+    "start": 39.68,
+    "end": 39.84,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "his",
+    "start": 39.84,
+    "end": 40.08,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "faith.",
+    "start": 40.08,
+    "end": 40.26,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "He",
+    "start": 40.26,
+    "end": 40.46,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "joins",
+    "start": 40.46,
+    "end": 40.66,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "us",
+    "start": 40.66,
+    "end": 40.92,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "now",
+    "start": 40.92,
+    "end": 41.34,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "to",
+    "start": 41.34,
+    "end": 41.76,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "react",
+    "start": 41.76,
+    "end": 42.04,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Jeff.",
+    "start": 42.04,
+    "end": 42.3,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Welcome",
+    "start": 42.34,
+    "end": 42.64,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "to",
+    "start": 42.64,
+    "end": 42.9,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "you",
+    "start": 42.9,
+    "end": 43.2,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "I",
+    "start": 43.2,
+    "end": 43.64,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "know",
+    "start": 43.64,
+    "end": 43.86,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "that",
+    "start": 43.86,
+    "end": 44.04,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "you",
+    "start": 44.04,
+    "end": 44.32,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "saw",
+    "start": 44.32,
+    "end": 44.52,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "this",
+    "start": 44.52,
+    "end": 44.82,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "and",
+    "start": 44.82,
+    "end": 44.94,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "you",
+    "start": 44.94,
+    "end": 45.12,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "have",
+    "start": 45.12,
+    "end": 45.22,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "some",
+    "start": 45.22,
+    "end": 45.48,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "strong",
+    "start": 45.48,
+    "end": 45.72,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "feelings",
+    "start": 45.72,
+    "end": 46.14,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "about",
+    "start": 46.14,
+    "end": 46.64,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "it.",
+    "start": 46.64,
+    "end": 46.86,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Please",
+    "start": 46.88,
+    "end": 47.1,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "do",
+    "start": 47.1,
+    "end": 47.36,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "share",
+    "start": 47.36,
+    "end": 47.62,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "well,",
+    "start": 48.540000000000006,
+    "end": 49.06,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "you",
+    "start": 49.06,
+    "end": 49.2,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "know,",
+    "start": 49.2,
+    "end": 49.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "it's",
+    "start": 49.34,
+    "end": 49.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "just",
+    "start": 49.58,
+    "end": 49.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "saddening",
+    "start": 49.94,
+    "end": 50.36,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 50.36,
+    "end": 50.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "think",
+    "start": 50.58,
+    "end": 50.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that",
+    "start": 50.8,
+    "end": 51.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "we're",
+    "start": 51.02,
+    "end": 51.32,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "in",
+    "start": 51.32,
+    "end": 51.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "a",
+    "start": 51.64,
+    "end": 52.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Time",
+    "start": 52.4,
+    "end": 52.76,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "period",
+    "start": 52.76,
+    "end": 53.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "where",
+    "start": 53.22,
+    "end": 53.76,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "this",
+    "start": 53.76,
+    "end": 54.24,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "could",
+    "start": 54.24,
+    "end": 54.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "even",
+    "start": 54.42,
+    "end": 54.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "be",
+    "start": 54.64,
+    "end": 54.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "approved",
+    "start": 54.92,
+    "end": 55.26,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "I",
+    "start": 55.26,
+    "end": 55.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "mean",
+    "start": 55.42,
+    "end": 55.56,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 55.56,
+    "end": 55.76,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "be",
+    "start": 55.76,
+    "end": 56.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "mocking",
+    "start": 56.0,
+    "end": 56.36,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 56.36,
+    "end": 56.86,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "last",
+    "start": 56.86,
+    "end": 57.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "supper",
+    "start": 57.22,
+    "end": 57.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "or",
+    "start": 57.46,
+    "end": 57.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "something",
+    "start": 57.64,
+    "end": 57.86,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "so",
+    "start": 57.86,
+    "end": 58.18,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "sacred",
+    "start": 58.18,
+    "end": 58.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 58.42,
+    "end": 58.62,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "so",
+    "start": 58.62,
+    "end": 58.82,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "many",
+    "start": 58.82,
+    "end": 59.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Christians",
+    "start": 59.0,
+    "end": 59.36,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "around",
+    "start": 59.36,
+    "end": 59.72,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 59.72,
+    "end": 59.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "world",
+    "start": 59.94,
+    "end": 60.24,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "is",
+    "start": 60.24,
+    "end": 61.1,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "a",
+    "start": 61.1,
+    "end": 61.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "direct",
+    "start": 61.42,
+    "end": 62.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "assault",
+    "start": 62.12,
+    "end": 62.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "on",
+    "start": 62.74,
+    "end": 63.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Christianity,",
+    "start": 63.38,
+    "end": 64.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "but",
+    "start": 64.12,
+    "end": 64.68,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "all",
+    "start": 64.68,
+    "end": 65.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "religions",
+    "start": 65.0,
+    "end": 65.5,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "should",
+    "start": 65.5,
+    "end": 65.98,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "be",
+    "start": 65.98,
+    "end": 66.32000000000001,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Upset",
+    "start": 66.92,
+    "end": 67.44,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 67.44,
+    "end": 67.7,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "hurt",
+    "start": 67.7,
+    "end": 67.82,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "right",
+    "start": 67.82,
+    "end": 68.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "now",
+    "start": 68.12,
+    "end": 68.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "seeing",
+    "start": 68.38,
+    "end": 68.62,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "what",
+    "start": 68.62,
+    "end": 68.98,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "happened",
+    "start": 68.98,
+    "end": 69.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "at",
+    "start": 69.34,
+    "end": 69.72,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "these",
+    "start": 69.72,
+    "end": 69.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Olympic",
+    "start": 69.94,
+    "end": 70.32,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Games",
+    "start": 70.32,
+    "end": 70.72,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Olympics",
+    "start": 70.72,
+    "end": 71.18,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "for",
+    "start": 71.18,
+    "end": 71.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 71.42,
+    "end": 71.84,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "for",
+    "start": 71.84,
+    "end": 72.2,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "throughout",
+    "start": 72.2,
+    "end": 72.54,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "history",
+    "start": 72.54,
+    "end": 73.08,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "have",
+    "start": 73.08,
+    "end": 73.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "brought",
+    "start": 73.42,
+    "end": 73.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "countries",
+    "start": 73.64,
+    "end": 74.04,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "together",
+    "start": 74.04,
+    "end": 74.38000000000001,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Have",
+    "start": 74.9,
+    "end": 75.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "been",
+    "start": 75.34,
+    "end": 75.56,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "times",
+    "start": 75.56,
+    "end": 75.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "where",
+    "start": 75.8,
+    "end": 76.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "conflict",
+    "start": 76.0,
+    "end": 76.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "has",
+    "start": 76.46,
+    "end": 76.76,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "been",
+    "start": 76.76,
+    "end": 77.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "healed",
+    "start": 77.14,
+    "end": 77.62,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 77.62,
+    "end": 78.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "so",
+    "start": 78.38,
+    "end": 78.54,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 78.54,
+    "end": 78.86,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "think",
+    "start": 78.86,
+    "end": 79.26,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that",
+    "start": 79.26,
+    "end": 79.86,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "you're",
+    "start": 79.86,
+    "end": 80.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "giving",
+    "start": 80.4,
+    "end": 80.68,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "a",
+    "start": 80.68,
+    "end": 80.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "group",
+    "start": 80.96,
+    "end": 81.18,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "like",
+    "start": 81.18,
+    "end": 81.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 81.46,
+    "end": 81.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "trans",
+    "start": 81.8,
+    "end": 82.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Community",
+    "start": 82.12,
+    "end": 82.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "this",
+    "start": 82.46,
+    "end": 82.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "much",
+    "start": 82.92,
+    "end": 83.32,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "leeway",
+    "start": 83.32,
+    "end": 84.3,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 84.3,
+    "end": 84.5,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "control",
+    "start": 84.5,
+    "end": 85.04,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "what",
+    "start": 85.04,
+    "end": 85.28,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "what",
+    "start": 85.28,
+    "end": 85.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "you",
+    "start": 85.58,
+    "end": 85.88,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "show",
+    "start": 85.88,
+    "end": 86.28,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 86.28,
+    "end": 86.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "folks",
+    "start": 86.92,
+    "end": 87.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 87.22,
+    "end": 87.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "children",
+    "start": 87.58,
+    "end": 88.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "all",
+    "start": 88.02,
+    "end": 88.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "around",
+    "start": 88.6,
+    "end": 88.9,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 88.9,
+    "end": 89.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "world",
+    "start": 89.14,
+    "end": 89.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "This",
+    "start": 89.46,
+    "end": 90.06,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "is",
+    "start": 90.06,
+    "end": 90.3,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "a",
+    "start": 90.3,
+    "end": 90.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "mockery",
+    "start": 90.46,
+    "end": 90.86,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 90.86,
+    "end": 91.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "God",
+    "start": 91.12,
+    "end": 91.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "will",
+    "start": 91.38,
+    "end": 91.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "not",
+    "start": 91.64,
+    "end": 92.08,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "be",
+    "start": 92.08,
+    "end": 92.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "mocked",
+    "start": 92.38,
+    "end": 92.67999999999999,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "We",
+    "start": 93.22,
+    "end": 93.5,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "will",
+    "start": 93.5,
+    "end": 93.86,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "reap",
+    "start": 93.86,
+    "end": 94.04,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "what",
+    "start": 94.04,
+    "end": 94.24,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "we",
+    "start": 94.24,
+    "end": 94.5,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "sow",
+    "start": 94.5,
+    "end": 94.84,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "from",
+    "start": 94.84,
+    "end": 95.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "these",
+    "start": 95.34,
+    "end": 95.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "type",
+    "start": 95.64,
+    "end": 95.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "of",
+    "start": 95.8,
+    "end": 95.98,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "events",
+    "start": 95.98,
+    "end": 96.44,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "What",
+    "start": 96.44,
+    "end": 96.94,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "did",
+    "start": 96.94,
+    "end": 97.1,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "you",
+    "start": 97.1,
+    "end": 97.34,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "think",
+    "start": 97.34,
+    "end": 97.66,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "of",
+    "start": 97.66,
+    "end": 98.12,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 98.12,
+    "end": 98.62,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Nicky",
+    "start": 98.62,
+    "end": 99.24,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "doll?",
+    "start": 99.24,
+    "end": 99.46,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Which",
+    "start": 99.58,
+    "end": 99.8,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "was",
+    "start": 99.8,
+    "end": 100.08,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "one",
+    "start": 100.08,
+    "end": 100.3,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "of",
+    "start": 100.3,
+    "end": 100.48,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 100.48,
+    "end": 101.04,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "drag",
+    "start": 101.04,
+    "end": 101.36,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "queens",
+    "start": 101.36,
+    "end": 101.74,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "in",
+    "start": 101.74,
+    "end": 101.92,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 101.92,
+    "end": 102.1,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "display",
+    "start": 102.1,
+    "end": 102.46,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "defending",
+    "start": 102.46,
+    "end": 102.9,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 102.9,
+    "end": 103.2,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "event",
+    "start": 103.2,
+    "end": 103.4,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "claiming",
+    "start": 103.4,
+    "end": 103.7,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "they",
+    "start": 103.7,
+    "end": 103.92,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "were",
+    "start": 103.92,
+    "end": 104.16,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "depicting",
+    "start": 104.16,
+    "end": 104.64,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 104.64,
+    "end": 104.84,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "feast",
+    "start": 104.84,
+    "end": 105.08,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "of",
+    "start": 105.08,
+    "end": 105.38,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Dionysus",
+    "start": 105.38,
+    "end": 105.67999999999999,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Not",
+    "start": 106.38,
+    "end": 106.9,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 106.9,
+    "end": 107.16,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Last",
+    "start": 107.16,
+    "end": 107.56,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Supper.",
+    "start": 107.56,
+    "end": 108.0,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "How",
+    "start": 108.22,
+    "end": 108.42,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "does",
+    "start": 108.42,
+    "end": 108.62,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "that",
+    "start": 108.62,
+    "end": 108.9,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "go",
+    "start": 108.9,
+    "end": 109.16,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "over",
+    "start": 109.16,
+    "end": 109.34,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "with",
+    "start": 109.34,
+    "end": 109.62,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "you?",
+    "start": 109.62,
+    "end": 109.88,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "I",
+    "start": 110.94,
+    "end": 111.54,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Pray",
+    "start": 111.54,
+    "end": 111.84,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "for",
+    "start": 111.84,
+    "end": 111.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "her.",
+    "start": 111.94,
+    "end": 112.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "I",
+    "start": 112.22,
+    "end": 112.32,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "pray",
+    "start": 112.32,
+    "end": 112.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "for",
+    "start": 112.46,
+    "end": 112.62,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "her",
+    "start": 112.62,
+    "end": 112.9,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "soul,",
+    "start": 112.9,
+    "end": 113.16,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "you",
+    "start": 113.54,
+    "end": 113.56,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "know",
+    "start": 113.56,
+    "end": 113.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "I",
+    "start": 113.66,
+    "end": 113.9,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "ask",
+    "start": 113.9,
+    "end": 114.06,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "God",
+    "start": 114.06,
+    "end": 114.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "for",
+    "start": 114.38,
+    "end": 114.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 114.6,
+    "end": 114.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "forgive",
+    "start": 114.96,
+    "end": 115.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "her",
+    "start": 115.42,
+    "end": 115.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "because",
+    "start": 115.66,
+    "end": 115.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "she",
+    "start": 115.94,
+    "end": 116.16,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "does",
+    "start": 116.16,
+    "end": 116.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "not",
+    "start": 116.42,
+    "end": 116.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "know",
+    "start": 116.58,
+    "end": 116.72,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "what",
+    "start": 116.72,
+    "end": 116.9,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "she's",
+    "start": 116.9,
+    "end": 117.26,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "doing",
+    "start": 117.26,
+    "end": 117.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "The",
+    "start": 117.52,
+    "end": 118.24,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "this",
+    "start": 118.24,
+    "end": 118.48,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "is",
+    "start": 118.48,
+    "end": 118.68,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "a",
+    "start": 118.68,
+    "end": 118.88,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "sad",
+    "start": 118.88,
+    "end": 119.06,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "time.",
+    "start": 119.06,
+    "end": 119.36,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "These",
+    "start": 119.36,
+    "end": 119.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "people",
+    "start": 119.6,
+    "end": 119.84,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "are",
+    "start": 119.84,
+    "end": 120.1,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "confused,",
+    "start": 120.1,
+    "end": 120.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "you",
+    "start": 120.66,
+    "end": 121.08,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "know",
+    "start": 121.08,
+    "end": 121.26,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "But",
+    "start": 121.26,
+    "end": 121.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "I",
+    "start": 121.46,
+    "end": 121.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "mean",
+    "start": 121.58,
+    "end": 121.76,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "if",
+    "start": 121.76,
+    "end": 121.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "you",
+    "start": 121.94,
+    "end": 122.06,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "look",
+    "start": 122.06,
+    "end": 122.26,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "back",
+    "start": 122.26,
+    "end": 122.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "look",
+    "start": 122.46,
+    "end": 122.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "at",
+    "start": 122.64,
+    "end": 122.78,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 122.78,
+    "end": 123.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "policies",
+    "start": 123.0,
+    "end": 123.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that",
+    "start": 123.38,
+    "end": 123.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "we're",
+    "start": 123.64,
+    "end": 123.86,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "pushing",
+    "start": 123.86,
+    "end": 124.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "men",
+    "start": 124.12,
+    "end": 124.5,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "competing",
+    "start": 124.5,
+    "end": 124.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "with",
+    "start": 124.92,
+    "end": 125.16,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "women",
+    "start": 125.16,
+    "end": 125.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "in",
+    "start": 125.38,
+    "end": 125.68,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "sports.",
+    "start": 125.68,
+    "end": 125.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "We're",
+    "start": 126.14,
+    "end": 126.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "allowing",
+    "start": 126.66,
+    "end": 126.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "individuals",
+    "start": 127.8,
+    "end": 128.32,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "like",
+    "start": 128.32,
+    "end": 128.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "this",
+    "start": 128.74,
+    "end": 129.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 129.12,
+    "end": 129.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "make",
+    "start": 129.42,
+    "end": 129.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "policy",
+    "start": 129.92,
+    "end": 130.56,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "decisions",
+    "start": 130.56,
+    "end": 131.44,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Across",
+    "start": 131.44,
+    "end": 132.28,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "our",
+    "start": 132.28,
+    "end": 132.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "nation",
+    "start": 132.58,
+    "end": 132.9,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 132.9,
+    "end": 133.18,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "across",
+    "start": 133.18,
+    "end": 133.54,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 133.54,
+    "end": 133.84,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "world.",
+    "start": 133.84,
+    "end": 134.1,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "This",
+    "start": 134.24,
+    "end": 134.7,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "is",
+    "start": 134.7,
+    "end": 134.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "a",
+    "start": 134.92,
+    "end": 135.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "direct",
+    "start": 135.22,
+    "end": 135.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "alarm",
+    "start": 135.74,
+    "end": 136.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "bell",
+    "start": 136.38,
+    "end": 136.68,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "for",
+    "start": 136.68,
+    "end": 137.06,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 137.06,
+    "end": 137.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "entire",
+    "start": 137.34,
+    "end": 137.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "world",
+    "start": 137.74,
+    "end": 138.24,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 138.24,
+    "end": 138.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "see",
+    "start": 138.6,
+    "end": 138.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "we",
+    "start": 138.74,
+    "end": 139.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "cannot",
+    "start": 139.02,
+    "end": 139.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "allow",
+    "start": 139.38,
+    "end": 139.72,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "this",
+    "start": 139.72,
+    "end": 139.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "This",
+    "start": 139.96,
+    "end": 140.16,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "is",
+    "start": 140.16,
+    "end": 140.36,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "a",
+    "start": 140.36,
+    "end": 140.56,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "mental",
+    "start": 140.56,
+    "end": 140.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "health",
+    "start": 140.96,
+    "end": 141.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "issue",
+    "start": 141.42,
+    "end": 141.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "if",
+    "start": 141.8,
+    "end": 142.28,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "you",
+    "start": 142.28,
+    "end": 142.56,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "really",
+    "start": 142.56,
+    "end": 142.9,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "think",
+    "start": 142.9,
+    "end": 143.2,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that",
+    "start": 143.2,
+    "end": 143.78,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "You",
+    "start": 143.78,
+    "end": 144.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "can",
+    "start": 144.52,
+    "end": 144.88,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "change",
+    "start": 144.88,
+    "end": 145.24,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "your",
+    "start": 145.24,
+    "end": 145.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "gender",
+    "start": 145.52,
+    "end": 145.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 145.96,
+    "end": 146.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that",
+    "start": 146.42,
+    "end": 146.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "people",
+    "start": 146.8,
+    "end": 147.18,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "are",
+    "start": 147.18,
+    "end": 147.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "gonna",
+    "start": 147.38,
+    "end": 147.56,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "support",
+    "start": 147.56,
+    "end": 148.08,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "whatever",
+    "start": 148.08,
+    "end": 148.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "you",
+    "start": 148.52,
+    "end": 148.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "say",
+    "start": 148.92,
+    "end": 149.28,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 149.28,
+    "end": 149.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "we're",
+    "start": 149.66,
+    "end": 149.84,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "just",
+    "start": 149.84,
+    "end": 150.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "we're",
+    "start": 150.4,
+    "end": 151.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "just",
+    "start": 151.0,
+    "end": 151.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "feeding",
+    "start": 151.34,
+    "end": 151.62,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "it",
+    "start": 151.62,
+    "end": 151.92000000000002,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Sarah",
+    "start": 152.46,
+    "end": 152.7,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "we're",
+    "start": 152.7,
+    "end": 153.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "feeding",
+    "start": 153.14,
+    "end": 153.68,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "this",
+    "start": 153.68,
+    "end": 154.36,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "nonsense",
+    "start": 154.36,
+    "end": 154.82,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "this",
+    "start": 154.82,
+    "end": 155.2,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "mental",
+    "start": 155.2,
+    "end": 155.5,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "health",
+    "start": 155.5,
+    "end": 155.76,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "crisis",
+    "start": 155.76,
+    "end": 156.2,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "that",
+    "start": 156.2,
+    "end": 156.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "we",
+    "start": 156.42,
+    "end": 156.62,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "have",
+    "start": 156.62,
+    "end": 156.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "before",
+    "start": 156.8,
+    "end": 157.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "our",
+    "start": 157.14,
+    "end": 157.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "hands.",
+    "start": 157.42,
+    "end": 157.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "We",
+    "start": 157.98,
+    "end": 158.06,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "need",
+    "start": 158.06,
+    "end": 158.28,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 158.28,
+    "end": 158.54,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "treat",
+    "start": 158.54,
+    "end": 158.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "it",
+    "start": 158.64,
+    "end": 158.86,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "as",
+    "start": 158.86,
+    "end": 159.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "such",
+    "start": 159.0,
+    "end": 159.26,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "We",
+    "start": 159.26,
+    "end": 159.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "need",
+    "start": 159.58,
+    "end": 159.72,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 159.72,
+    "end": 160.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "call",
+    "start": 160.0,
+    "end": 160.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "it",
+    "start": 160.12,
+    "end": 160.32,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "as",
+    "start": 160.32,
+    "end": 160.5,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "such.",
+    "start": 160.5,
+    "end": 160.7,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "We",
+    "start": 160.86,
+    "end": 161.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "cannot",
+    "start": 161.12,
+    "end": 161.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "let",
+    "start": 161.52,
+    "end": 161.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "these",
+    "start": 161.8,
+    "end": 162.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "men",
+    "start": 162.42,
+    "end": 162.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "go",
+    "start": 162.74,
+    "end": 163.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "into",
+    "start": 163.0,
+    "end": 163.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "bathrooms",
+    "start": 163.42,
+    "end": 163.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "with",
+    "start": 163.94,
+    "end": 164.2,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "women",
+    "start": 164.2,
+    "end": 164.48,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "We",
+    "start": 164.48,
+    "end": 164.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "cannot",
+    "start": 164.66,
+    "end": 164.98,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "let",
+    "start": 164.98,
+    "end": 165.26,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "these",
+    "start": 165.26,
+    "end": 165.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "men",
+    "start": 165.64,
+    "end": 165.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "compete",
+    "start": 165.92,
+    "end": 166.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "with",
+    "start": 166.34,
+    "end": 166.54,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "women",
+    "start": 166.54,
+    "end": 166.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "in",
+    "start": 166.8,
+    "end": 167.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "sports",
+    "start": 167.12,
+    "end": 167.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 167.4,
+    "end": 167.76,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "we",
+    "start": 167.76,
+    "end": 168.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "have",
+    "start": 168.02,
+    "end": 168.24,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 168.24,
+    "end": 168.48,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "speak",
+    "start": 168.48,
+    "end": 168.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "truth",
+    "start": 168.8,
+    "end": 169.24,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 169.24,
+    "end": 169.84,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "them",
+    "start": 169.84,
+    "end": 170.32,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "through",
+    "start": 170.32,
+    "end": 170.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 170.58,
+    "end": 170.76,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Word",
+    "start": 170.76,
+    "end": 170.9,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "of",
+    "start": 170.9,
+    "end": 171.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "God",
+    "start": 171.14,
+    "end": 171.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "But",
+    "start": 171.38,
+    "end": 171.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "just",
+    "start": 171.74,
+    "end": 172.16,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "common",
+    "start": 172.16,
+    "end": 172.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "sense",
+    "start": 172.6,
+    "end": 173.24,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Well,",
+    "start": 173.24,
+    "end": 174.28,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "you",
+    "start": 174.28,
+    "end": 174.46,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "know",
+    "start": 174.46,
+    "end": 174.62,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "and",
+    "start": 174.62,
+    "end": 174.92,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "so",
+    "start": 174.92,
+    "end": 175.08,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "for",
+    "start": 175.08,
+    "end": 175.28,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 175.28,
+    "end": 175.48,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "transgender",
+    "start": 175.48,
+    "end": 175.8,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "community",
+    "start": 175.8,
+    "end": 176.26,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "They're",
+    "start": 176.26,
+    "end": 176.62,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "making",
+    "start": 176.62,
+    "end": 176.9,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 176.9,
+    "end": 177.28,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "criticism",
+    "start": 177.28,
+    "end": 177.68,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "about",
+    "start": 177.68,
+    "end": 178.0,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "them",
+    "start": 178.0,
+    "end": 178.22,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "being",
+    "start": 178.22,
+    "end": 178.4,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "transgender",
+    "start": 178.4,
+    "end": 178.88,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "when",
+    "start": 178.88,
+    "end": 179.06,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 179.06,
+    "end": 179.26,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Christian",
+    "start": 179.26,
+    "end": 179.48,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "community",
+    "start": 179.48,
+    "end": 179.86,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "saying",
+    "start": 179.86,
+    "end": 180.22,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "that",
+    "start": 180.22,
+    "end": 180.6,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "this",
+    "start": 180.6,
+    "end": 180.78,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "was",
+    "start": 180.78,
+    "end": 180.94,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "a",
+    "start": 180.94,
+    "end": 181.2,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "mockery",
+    "start": 181.2,
+    "end": 181.54,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "on",
+    "start": 181.54,
+    "end": 181.72,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "their",
+    "start": 181.72,
+    "end": 182.06,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "faith",
+    "start": 182.06,
+    "end": 182.32,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "a",
+    "start": 182.32,
+    "end": 182.56,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "mockery",
+    "start": 182.56,
+    "end": 183.04,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "of",
+    "start": 183.04,
+    "end": 183.24,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "their",
+    "start": 183.24,
+    "end": 183.88,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "religion",
+    "start": 183.88,
+    "end": 184.42,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Jack",
+    "start": 184.42,
+    "end": 184.86,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "really",
+    "start": 184.86,
+    "end": 185.46,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "bottom",
+    "start": 185.46,
+    "end": 185.76,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "line",
+    "start": 185.76,
+    "end": 185.98,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 185.98,
+    "end": 186.12,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "first",
+    "start": 186.12,
+    "end": 186.42,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "lady",
+    "start": 186.42,
+    "end": 186.66,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 186.66,
+    "end": 186.86,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "president",
+    "start": 186.86,
+    "end": 187.26,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "calling",
+    "start": 187.26,
+    "end": 187.52,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 187.52,
+    "end": 188.22,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "opening",
+    "start": 188.22,
+    "end": 188.52,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "ceremony",
+    "start": 188.52,
+    "end": 188.9,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Spectacular",
+    "start": 188.9,
+    "end": 189.88,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "and",
+    "start": 189.88,
+    "end": 190.1,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "so",
+    "start": 190.1,
+    "end": 190.28,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "many",
+    "start": 190.28,
+    "end": 190.46,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "did",
+    "start": 190.46,
+    "end": 190.82,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "think",
+    "start": 190.82,
+    "end": 191.02,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "as",
+    "start": 191.02,
+    "end": 191.22,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "they",
+    "start": 191.22,
+    "end": 191.36,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "were",
+    "start": 191.36,
+    "end": 191.52,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "watching",
+    "start": 191.52,
+    "end": 191.76,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "it",
+    "start": 191.76,
+    "end": 192.24,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "did",
+    "start": 192.24,
+    "end": 192.52,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "think",
+    "start": 192.52,
+    "end": 192.78,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "that",
+    "start": 192.78,
+    "end": 193.08,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "right",
+    "start": 193.08,
+    "end": 193.42,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "and",
+    "start": 193.42,
+    "end": 193.68,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "then",
+    "start": 193.68,
+    "end": 193.8,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "this",
+    "start": 193.8,
+    "end": 193.98,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "came",
+    "start": 193.98,
+    "end": 194.22,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "across",
+    "start": 194.22,
+    "end": 194.46,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "And",
+    "start": 194.48,
+    "end": 194.7,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "you",
+    "start": 194.7,
+    "end": 194.9,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "you",
+    "start": 194.9,
+    "end": 195.32,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "think",
+    "start": 195.32,
+    "end": 195.66,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "gosh",
+    "start": 195.66,
+    "end": 196.06,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "what",
+    "start": 196.06,
+    "end": 196.28,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "a",
+    "start": 196.28,
+    "end": 196.58,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "distraction",
+    "start": 196.58,
+    "end": 197.14,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "from",
+    "start": 197.14,
+    "end": 197.44,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "what",
+    "start": 197.44,
+    "end": 197.84,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "was",
+    "start": 197.84,
+    "end": 198.14,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "a",
+    "start": 198.14,
+    "end": 198.34,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "really",
+    "start": 198.34,
+    "end": 198.54,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "remarkable",
+    "start": 198.54,
+    "end": 198.94,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "opening",
+    "start": 198.94,
+    "end": 199.26,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "ceremony",
+    "start": 199.26,
+    "end": 199.58,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "and",
+    "start": 199.58,
+    "end": 199.76,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "from",
+    "start": 199.76,
+    "end": 199.88,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 199.88,
+    "end": 200.34,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "athletes",
+    "start": 200.34,
+    "end": 200.6,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Jack",
+    "start": 200.6,
+    "end": 200.86,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "as",
+    "start": 200.86,
+    "end": 201.16,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "an",
+    "start": 201.16,
+    "end": 201.46,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "athlete",
+    "start": 201.46,
+    "end": 201.96,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "You",
+    "start": 201.96,
+    "end": 202.94,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "know",
+    "start": 202.94,
+    "end": 203.22,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "We",
+    "start": 203.22,
+    "end": 203.46,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "want",
+    "start": 203.46,
+    "end": 203.66,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "to",
+    "start": 203.66,
+    "end": 203.84,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "support",
+    "start": 203.84,
+    "end": 204.54,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "these",
+    "start": 204.54,
+    "end": 204.94,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "people",
+    "start": 204.94,
+    "end": 205.3,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "who",
+    "start": 205.3,
+    "end": 205.48,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "have",
+    "start": 205.48,
+    "end": 205.64,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "put",
+    "start": 205.64,
+    "end": 205.82,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "so",
+    "start": 205.82,
+    "end": 206.16,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "much",
+    "start": 206.16,
+    "end": 206.34,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "hard",
+    "start": 206.34,
+    "end": 206.64,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "work",
+    "start": 206.64,
+    "end": 206.9,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "into",
+    "start": 206.9,
+    "end": 207.12,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "their",
+    "start": 207.12,
+    "end": 207.38,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "events",
+    "start": 207.38,
+    "end": 207.66,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "a",
+    "start": 207.66,
+    "end": 207.84,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "real",
+    "start": 207.84,
+    "end": 207.96,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "quick",
+    "start": 207.96,
+    "end": 208.16,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "final",
+    "start": 208.16,
+    "end": 208.52,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "thought",
+    "start": 208.52,
+    "end": 208.92,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "on",
+    "start": 208.92,
+    "end": 209.42,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 209.42,
+    "end": 209.62,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Olympics",
+    "start": 209.62,
+    "end": 210.2,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "And",
+    "start": 210.2,
+    "end": 211.16,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "you",
+    "start": 211.16,
+    "end": 211.48,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "know",
+    "start": 211.48,
+    "end": 211.88,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "hoping",
+    "start": 211.88,
+    "end": 212.16,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "that",
+    "start": 212.16,
+    "end": 212.4,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "these",
+    "start": 212.4,
+    "end": 212.58,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "athletes",
+    "start": 212.58,
+    "end": 212.9,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "can",
+    "start": 212.9,
+    "end": 213.08,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "go",
+    "start": 213.08,
+    "end": 213.32,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "on",
+    "start": 213.32,
+    "end": 213.64,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "and",
+    "start": 213.64,
+    "end": 213.92,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "have",
+    "start": 213.92,
+    "end": 214.14,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "their",
+    "start": 214.14,
+    "end": 214.56,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "best",
+    "start": 214.56,
+    "end": 215.1,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "performance",
+    "start": 215.1,
+    "end": 215.8,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "at",
+    "start": 215.8,
+    "end": 216.14,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 216.14,
+    "end": 216.28,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "games",
+    "start": 216.28,
+    "end": 216.54,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "That's",
+    "start": 216.54,
+    "end": 217.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "right",
+    "start": 217.4,
+    "end": 217.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Sarah.",
+    "start": 217.4,
+    "end": 217.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "You",
+    "start": 217.66,
+    "end": 217.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "know,",
+    "start": 217.96,
+    "end": 218.06,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "I'm",
+    "start": 218.06,
+    "end": 218.32,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "a",
+    "start": 218.32,
+    "end": 218.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "fellow",
+    "start": 218.46,
+    "end": 218.72,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "track",
+    "start": 218.72,
+    "end": 219.06,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "athlete,",
+    "start": 219.06,
+    "end": 219.44,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "right?",
+    "start": 219.52,
+    "end": 219.78,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "I",
+    "start": 219.8,
+    "end": 220.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "won",
+    "start": 220.02,
+    "end": 220.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 220.12,
+    "end": 220.36,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "junior",
+    "start": 220.36,
+    "end": 220.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Olympics",
+    "start": 220.64,
+    "end": 221.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 221.02,
+    "end": 221.2,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "it's",
+    "start": 221.2,
+    "end": 221.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "one",
+    "start": 221.34,
+    "end": 221.48,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "of",
+    "start": 221.48,
+    "end": 221.56,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 221.56,
+    "end": 221.7,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "most",
+    "start": 221.7,
+    "end": 221.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "glorious",
+    "start": 221.94,
+    "end": 222.3,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "times",
+    "start": 222.3,
+    "end": 222.62,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "for",
+    "start": 222.62,
+    "end": 222.82,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "me",
+    "start": 222.82,
+    "end": 222.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Watching",
+    "start": 222.96,
+    "end": 223.68,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 223.68,
+    "end": 223.98,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Olympics",
+    "start": 223.98,
+    "end": 224.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 224.42,
+    "end": 224.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 224.8,
+    "end": 225.2,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 225.2,
+    "end": 225.36,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "see",
+    "start": 225.36,
+    "end": 225.6,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "this",
+    "start": 225.6,
+    "end": 226.5,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "take",
+    "start": 226.5,
+    "end": 226.82,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "just",
+    "start": 226.82,
+    "end": 227.36,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "distract",
+    "start": 227.36,
+    "end": 227.9,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "everything",
+    "start": 227.9,
+    "end": 228.76,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Distract",
+    "start": 228.76,
+    "end": 229.4,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "all",
+    "start": 229.4,
+    "end": 229.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "these",
+    "start": 229.66,
+    "end": 229.9,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "accomplishments",
+    "start": 229.9,
+    "end": 230.62,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "of",
+    "start": 230.62,
+    "end": 230.86,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "these",
+    "start": 230.86,
+    "end": 231.08,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "men",
+    "start": 231.08,
+    "end": 231.3,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 231.3,
+    "end": 231.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "women",
+    "start": 231.52,
+    "end": 231.72,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "who",
+    "start": 231.72,
+    "end": 231.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "have",
+    "start": 231.94,
+    "end": 232.04,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "worked",
+    "start": 232.04,
+    "end": 232.28,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "all",
+    "start": 232.28,
+    "end": 232.8,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "their",
+    "start": 232.8,
+    "end": 233.0,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "life",
+    "start": 233.0,
+    "end": 233.18,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "many",
+    "start": 233.18,
+    "end": 233.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "of",
+    "start": 233.42,
+    "end": 233.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "them",
+    "start": 233.58,
+    "end": 233.72,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "working",
+    "start": 233.72,
+    "end": 233.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "two",
+    "start": 233.96,
+    "end": 234.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 234.22,
+    "end": 234.44,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "three",
+    "start": 234.44,
+    "end": 234.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "jobs",
+    "start": 234.66,
+    "end": 235.04,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Just",
+    "start": 235.04,
+    "end": 235.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 235.34,
+    "end": 235.48,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "be",
+    "start": 235.48,
+    "end": 235.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "able",
+    "start": 235.64,
+    "end": 235.78,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 235.78,
+    "end": 235.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "their",
+    "start": 235.92,
+    "end": 236.24,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "families.",
+    "start": 236.24,
+    "end": 236.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Yeah,",
+    "start": 236.72,
+    "end": 237.16,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 237.38,
+    "end": 237.54,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "their",
+    "start": 237.54,
+    "end": 237.76,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "families",
+    "start": 237.76,
+    "end": 238.26,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 238.26,
+    "end": 238.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "then",
+    "start": 238.58,
+    "end": 238.7,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 238.7,
+    "end": 238.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "have",
+    "start": 238.94,
+    "end": 239.06,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 239.06,
+    "end": 239.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "president",
+    "start": 239.38,
+    "end": 239.66,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "of",
+    "start": 239.66,
+    "end": 239.86,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 239.86,
+    "end": 239.96,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "United",
+    "start": 239.96,
+    "end": 240.22,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "States",
+    "start": 240.22,
+    "end": 240.46,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 240.46,
+    "end": 240.7,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "first",
+    "start": 240.7,
+    "end": 241.02,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "lady",
+    "start": 241.02,
+    "end": 241.18,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "of",
+    "start": 241.18,
+    "end": 241.38,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 241.38,
+    "end": 241.52,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "United",
+    "start": 241.52,
+    "end": 241.94,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "States",
+    "start": 241.94,
+    "end": 242.62,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "appeased",
+    "start": 243.2,
+    "end": 243.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "to",
+    "start": 243.64,
+    "end": 243.86,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "this",
+    "start": 243.86,
+    "end": 244.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "satanic",
+    "start": 244.14,
+    "end": 244.84,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "demonic",
+    "start": 244.84,
+    "end": 245.54,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "act",
+    "start": 245.54,
+    "end": 246.1,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "is",
+    "start": 246.1,
+    "end": 246.5,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Disgusting.",
+    "start": 246.5,
+    "end": 247.18,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Yeah",
+    "start": 247.18,
+    "end": 247.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "shame",
+    "start": 247.58,
+    "end": 247.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "on",
+    "start": 247.74,
+    "end": 247.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "you",
+    "start": 247.92,
+    "end": 248.12,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Joe",
+    "start": 248.12,
+    "end": 248.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Biden",
+    "start": 248.34,
+    "end": 248.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 248.58,
+    "end": 248.74,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "the",
+    "start": 248.74,
+    "end": 248.92,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Biden",
+    "start": 248.92,
+    "end": 249.14,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "family.",
+    "start": 249.14,
+    "end": 249.64,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "All",
+    "start": 249.64,
+    "end": 249.98,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "right,",
+    "start": 249.98,
+    "end": 250.08,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "we're",
+    "start": 250.08,
+    "end": 250.24,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "coming",
+    "start": 250.24,
+    "end": 250.42,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "up",
+    "start": 250.42,
+    "end": 250.62,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "right",
+    "start": 250.62,
+    "end": 250.74,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "at",
+    "start": 250.74,
+    "end": 250.92,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 250.92,
+    "end": 251.02,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "top",
+    "start": 251.02,
+    "end": 251.22,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "of",
+    "start": 251.22,
+    "end": 251.38,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 251.38,
+    "end": 251.46,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "new",
+    "start": 251.46,
+    "end": 251.64,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "hour",
+    "start": 251.64,
+    "end": 251.86,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "here",
+    "start": 251.86,
+    "end": 252.08,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Jack,",
+    "start": 252.08,
+    "end": 252.28,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "thanks",
+    "start": 252.46,
+    "end": 252.54,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "so",
+    "start": 252.54,
+    "end": 252.74,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "much",
+    "start": 252.74,
+    "end": 252.86,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "for",
+    "start": 252.86,
+    "end": 253.06,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "joining",
+    "start": 253.06,
+    "end": 253.22,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "us.",
+    "start": 253.22,
+    "end": 253.46,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Appreciate",
+    "start": 253.84,
+    "end": 253.9,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "it.",
+    "start": 253.9,
+    "end": 254.58,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "I'm",
+    "start": 255.1,
+    "end": 255.16,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Steve",
+    "start": 255.16,
+    "end": 255.42,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "juicy",
+    "start": 255.42,
+    "end": 255.72,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "I'm",
+    "start": 255.72,
+    "end": 256.18,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "Brian",
+    "start": 256.18,
+    "end": 256.34,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "kill",
+    "start": 256.34,
+    "end": 256.62,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "me",
+    "start": 256.62,
+    "end": 256.82,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "word": "and",
+    "start": 256.82,
+    "end": 256.98,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "I'm",
+    "start": 256.98,
+    "end": 257.16,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Ainsley",
+    "start": 257.16,
+    "end": 257.42,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Earhart",
+    "start": 257.42,
+    "end": 257.76,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "and",
+    "start": 257.76,
+    "end": 258.02,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "click",
+    "start": 258.02,
+    "end": 258.16,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "here",
+    "start": 258.16,
+    "end": 258.42,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "to",
+    "start": 258.42,
+    "end": 258.62,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "subscribe",
+    "start": 258.62,
+    "end": 259.08,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "to",
+    "start": 259.08,
+    "end": 259.26,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "the",
+    "start": 259.26,
+    "end": 259.44,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "Fox",
+    "start": 259.44,
+    "end": 259.66,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "News",
+    "start": 259.66,
+    "end": 259.9,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "YouTube",
+    "start": 259.9,
+    "end": 260.36,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "page",
+    "start": 260.36,
+    "end": 260.72,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "to",
+    "start": 260.72,
+    "end": 260.94,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "catch",
+    "start": 260.94,
+    "end": 261.1,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "our",
+    "start": 261.1,
+    "end": 261.34,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "hottest",
+    "start": 261.34,
+    "end": 261.62,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "interviews",
+    "start": 261.62,
+    "end": 262.12,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "and",
+    "start": 262.12,
+    "end": 262.62,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "most",
+    "start": 262.62,
+    "end": 262.86,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "compelling",
+    "start": 262.86,
+    "end": 263.4,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "word": "analysis",
+    "start": 263.4,
+    "end": 264.0,
+    "speaker": "SPEAKER_01"
+  }
+]

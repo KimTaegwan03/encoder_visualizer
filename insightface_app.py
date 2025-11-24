@@ -5,7 +5,7 @@ from insightface.app import FaceAnalysis
 
 # Initialize face analysis model
 app = FaceAnalysis(
-    name="antelopev2/antelopev2",
+    name="antelopev2",
     root = "/home/dsl/Desktop/chp/MultimodalEncoderVisualizer/",
     allowed_modules=['detection', 'recognition']
 )

@@ -12,8 +12,7 @@ from pathlib import Path
 from subprocess import run
 import tempfile
 from collections import Counter
-from utils.utils import *
-from active_speaker_match import generate_query_embedding_from_ndarray, get_max_similarity_one
+from utils import *
 from faceDB import search, insert_records, load_json, ensure_collection, connect
 from vocal_emotion import wav2vec2_dim_on_sentences, adv_to_label
 from facial_expression import annotate_facial_emotion
@@ -28,13 +27,13 @@ import numpy as np
 import math
 app = FastAPI()
 #Directory paths
-VIDEO_DIR = Path("/mnt/data1/videos")
-ASD_BBOX_DIR = Path("/mnt/data1/asd_bbox_per_sec_jsons")
-ORCH_DIR = Path("/mnt/data1/orch_jsons")
-ASD_ORCH_DIR = Path("/mnt/data1/asd_orch_jsons")
-ASD_DIR = Path("/mnt/data1/asd_jsons")
-LABELS_JSON = Path("/mnt/data1/labeled_videos.json")
-GRAPH_DIR = Path("/mnt/data1/emb/graph/log")
+VIDEO_DIR = Path("data_samples/videos")
+ASD_BBOX_DIR = Path("data_samples/asd_bbox_per_sec_jsons")
+ORCH_DIR = Path("data_samples/orch_jsons")
+ASD_ORCH_DIR = Path("data_samples/asd_orch_jsons")
+ASD_DIR = Path("data_samples/asd_jsons")
+LABELS_JSON = Path("data_samples/labeled_videos.json")
+GRAPH_DIR = Path("data_samples/graph")
 
 AUDIO_ROOT = Path("audio")
 AUDIO_CLIPS_DIR = AUDIO_ROOT / "clips"

@@ -1,0 +1,2192 @@
+[
+    {
+        "word": "Bill,",
+        "start": 0.0,
+        "end": 0.34,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "what",
+        "start": 0.38,
+        "end": 0.68,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "have",
+        "start": 0.68,
+        "end": 0.86,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "the",
+        "start": 0.86,
+        "end": 1.02,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "FBI",
+        "start": 1.02,
+        "end": 1.36,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "been",
+        "start": 1.36,
+        "end": 1.9,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "saying",
+        "start": 1.9,
+        "end": 2.2,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "then",
+        "start": 2.2,
+        "end": 2.58,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "in",
+        "start": 2.58,
+        "end": 2.78,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "terms",
+        "start": 2.78,
+        "end": 3.16,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "of",
+        "start": 3.16,
+        "end": 3.46,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "this",
+        "start": 3.46,
+        "end": 3.7,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "suspect?",
+        "start": 3.7,
+        "end": 4.28,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "What",
+        "start": 4.54,
+        "end": 4.62,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "are",
+        "start": 4.62,
+        "end": 4.76,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "the",
+        "start": 4.76,
+        "end": 4.98,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "details",
+        "start": 4.98,
+        "end": 5.34,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "that",
+        "start": 5.34,
+        "end": 5.5,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "they",
+        "start": 5.5,
+        "end": 5.66,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "come",
+        "start": 5.66,
+        "end": 5.8,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "through",
+        "start": 5.8,
+        "end": 6.26,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "in",
+        "start": 6.26,
+        "end": 6.76,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "the",
+        "start": 6.76,
+        "end": 6.88,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "last",
+        "start": 6.88,
+        "end": 7.08,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "12",
+        "start": 7.08,
+        "end": 7.3,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "hours",
+        "start": 7.3,
+        "end": 7.54,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "or",
+        "start": 7.54,
+        "end": 7.74,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "so?",
+        "start": 7.74,
+        "end": 8.02,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "Well,",
+        "start": 10.54,
+        "end": 11.02,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "yeah,",
+        "start": 11.1,
+        "end": 11.3,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "Tom,",
+        "start": 11.3,
+        "end": 11.46,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "like",
+        "start": 11.46,
+        "end": 11.66,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "you",
+        "start": 11.66,
+        "end": 11.88,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "said,",
+        "start": 11.88,
+        "end": 12.04,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "a",
+        "start": 12.12,
+        "end": 12.32,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "58",
+        "start": 12.32,
+        "end": 12.62,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "year",
+        "start": 12.62,
+        "end": 12.94,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "old",
+        "start": 12.94,
+        "end": 13.1,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "suspect,",
+        "start": 13.1,
+        "end": 13.66,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "Ryan",
+        "start": 13.88,
+        "end": 14.08,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "Routh,",
+        "start": 14.08,
+        "end": 14.84,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "may",
+        "start": 14.9,
+        "end": 15.52,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "have",
+        "start": 15.52,
+        "end": 15.78,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "been,",
+        "start": 15.78,
+        "end": 16.04,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "according",
+        "start": 16.2,
+        "end": 16.42,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "to",
+        "start": 16.42,
+        "end": 16.62,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "his",
+        "start": 16.62,
+        "end": 16.82,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "cellular",
+        "start": 16.82,
+        "end": 17.14,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "phone",
+        "start": 17.14,
+        "end": 17.52,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "data,",
+        "start": 17.52,
+        "end": 17.92,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "spending",
+        "start": 18.24,
+        "end": 18.28,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "about",
+        "start": 18.28,
+        "end": 18.7,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "12",
+        "start": 18.7,
+        "end": 19.04,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "hours",
+        "start": 19.04,
+        "end": 19.64,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "in",
+        "start": 19.64,
+        "end": 20.44,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "the",
+        "start": 20.44,
+        "end": 20.74,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "area",
+        "start": 20.74,
+        "end": 21.1,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "where",
+        "start": 21.1,
+        "end": 21.5,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "he",
+        "start": 21.5,
+        "end": 21.74,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "was",
+        "start": 21.74,
+        "end": 22.02,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "with",
+        "start": 22.02,
+        "end": 22.2,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "his",
+        "start": 22.2,
+        "end": 22.46,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "rifle",
+        "start": 22.46,
+        "end": 22.82,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "and",
+        "start": 22.82,
+        "end": 23.06,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "backpack,",
+        "start": 23.06,
+        "end": 23.58,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "waiting",
+        "start": 23.9,
+        "end": 24.22,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "for",
+        "start": 24.22,
+        "end": 24.52,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "the",
+        "start": 24.52,
+        "end": 24.64,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "president,",
+        "start": 24.64,
+        "end": 25.12,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "a",
+        "start": 25.5,
+        "end": 25.54,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "former",
+        "start": 25.54,
+        "end": 25.76,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "president",
+        "start": 25.76,
+        "end": 26.22,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "to",
+        "start": 26.22,
+        "end": 26.46,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "show",
+        "start": 26.46,
+        "end": 26.74,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "up.",
+        "start": 26.74,
+        "end": 26.94,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "This",
+        "start": 26.94,
+        "end": 27.12,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "is",
+        "start": 27.12,
+        "end": 27.34,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "all",
+        "start": 27.34,
+        "end": 27.56,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "according",
+        "start": 27.56,
+        "end": 27.9,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "to",
+        "start": 27.9,
+        "end": 28.16,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "the",
+        "start": 28.16,
+        "end": 28.36,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "FBI",
+        "start": 28.36,
+        "end": 28.66,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "and",
+        "start": 28.66,
+        "end": 28.9,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "police",
+        "start": 28.9,
+        "end": 29.16,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "investigation.",
+        "start": 29.16,
+        "end": 29.88,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "They",
+        "start": 30.0,
+        "end": 30.34,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "also",
+        "start": 30.34,
+        "end": 30.82,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "found",
+        "start": 30.82,
+        "end": 31.06,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "that",
+        "start": 31.06,
+        "end": 31.24,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "the",
+        "start": 31.24,
+        "end": 31.48,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "vehicle",
+        "start": 31.48,
+        "end": 31.96,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "he",
+        "start": 31.96,
+        "end": 32.18,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "was",
+        "start": 32.18,
+        "end": 32.46,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "captured",
+        "start": 32.46,
+        "end": 32.9,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "in",
+        "start": 32.9,
+        "end": 33.44,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "about",
+        "start": 33.44,
+        "end": 33.82,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "an",
+        "start": 33.82,
+        "end": 34.16,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "hour",
+        "start": 34.16,
+        "end": 34.44,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "after",
+        "start": 34.44,
+        "end": 34.98,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "a",
+        "start": 34.98,
+        "end": 35.3,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "Secret",
+        "start": 35.3,
+        "end": 35.46,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "Service",
+        "start": 35.46,
+        "end": 35.88,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "engaged",
+        "start": 35.88,
+        "end": 36.38,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "him,",
+        "start": 36.38,
+        "end": 37.12,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "had",
+        "start": 37.68,
+        "end": 37.82,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "license",
+        "start": 37.82,
+        "end": 38.3,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "plates",
+        "start": 38.3,
+        "end": 38.56,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "that",
+        "start": 38.56,
+        "end": 38.76,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "were",
+        "start": 38.76,
+        "end": 39.1,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "stolen",
+        "start": 39.1,
+        "end": 39.44,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "from",
+        "start": 39.44,
+        "end": 39.72,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "another",
+        "start": 39.72,
+        "end": 40.0,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "vehicle.",
+        "start": 40.0,
+        "end": 40.5,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "So",
+        "start": 41.14,
+        "end": 41.34,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "a",
+        "start": 41.34,
+        "end": 41.4,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "lot",
+        "start": 41.4,
+        "end": 41.54,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "of",
+        "start": 41.54,
+        "end": 41.8,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "details",
+        "start": 41.8,
+        "end": 42.1,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "still",
+        "start": 42.1,
+        "end": 42.48,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "emerging.",
+        "start": 42.48,
+        "end": 42.96,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "He's",
+        "start": 43.22,
+        "end": 43.58,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "initially",
+        "start": 43.58,
+        "end": 43.92,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "been",
+        "start": 43.92,
+        "end": 44.26,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "charged",
+        "start": 44.26,
+        "end": 44.7,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "with",
+        "start": 44.7,
+        "end": 45.02,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "two",
+        "start": 45.02,
+        "end": 45.34,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "counts,",
+        "start": 45.34,
+        "end": 45.84,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "one",
+        "start": 46.38,
+        "end": 46.74,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "being",
+        "start": 46.74,
+        "end": 47.08,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "a",
+        "start": 47.08,
+        "end": 47.3,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "felon",
+        "start": 47.3,
+        "end": 47.68,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "having",
+        "start": 47.68,
+        "end": 47.92,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "illegally",
+        "start": 47.92,
+        "end": 48.94,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "having",
+        "start": 48.94,
+        "end": 49.3,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "a",
+        "start": 49.3,
+        "end": 49.48,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "weapon",
+        "start": 49.48,
+        "end": 49.8,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "and",
+        "start": 49.8,
+        "end": 50.16,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "the",
+        "start": 50.16,
+        "end": 50.4,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "other",
+        "start": 50.4,
+        "end": 50.72,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "being",
+        "start": 50.72,
+        "end": 51.14,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "having",
+        "start": 51.14,
+        "end": 51.44,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "a",
+        "start": 51.44,
+        "end": 51.66,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "weapon",
+        "start": 51.66,
+        "end": 51.9,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "that",
+        "start": 51.9,
+        "end": 52.18,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "had",
+        "start": 52.18,
+        "end": 52.32,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "its",
+        "start": 52.32,
+        "end": 52.64,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "serial",
+        "start": 52.64,
+        "end": 52.88,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "number",
+        "start": 52.88,
+        "end": 53.34,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "defaced",
+        "start": 53.34,
+        "end": 53.94,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "or",
+        "start": 53.94,
+        "end": 54.22,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "scratched",
+        "start": 54.22,
+        "end": 54.52,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "out.",
+        "start": 54.52,
+        "end": 54.92,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "I",
+        "start": 55.16,
+        "end": 55.6,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "suspect",
+        "start": 55.6,
+        "end": 56.0,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "we'll",
+        "start": 56.0,
+        "end": 56.32,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "get",
+        "start": 56.32,
+        "end": 56.56,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "a",
+        "start": 56.56,
+        "end": 56.76,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "lot",
+        "start": 56.76,
+        "end": 56.94,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "more",
+        "start": 56.94,
+        "end": 57.44,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "details",
+        "start": 57.44,
+        "end": 57.84,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "on",
+        "start": 57.84,
+        "end": 58.08,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "additional",
+        "start": 58.08,
+        "end": 58.62,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "charges",
+        "start": 58.62,
+        "end": 59.2,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "over",
+        "start": 59.2,
+        "end": 59.56,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "the",
+        "start": 59.56,
+        "end": 59.74,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "next",
+        "start": 59.74,
+        "end": 60.08,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "week",
+        "start": 60.08,
+        "end": 60.34,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "or",
+        "start": 60.34,
+        "end": 60.54,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "two.",
+        "start": 60.54,
+        "end": 60.94,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "But",
+        "start": 61.34,
+        "end": 61.44,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "the",
+        "start": 61.44,
+        "end": 61.58,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "FBI",
+        "start": 61.58,
+        "end": 61.82,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "is",
+        "start": 61.82,
+        "end": 62.24,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "still",
+        "start": 62.24,
+        "end": 62.36,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "now",
+        "start": 62.36,
+        "end": 62.7,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "looking",
+        "start": 62.7,
+        "end": 62.94,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "very",
+        "start": 62.94,
+        "end": 63.4,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "deeply",
+        "start": 63.4,
+        "end": 63.7,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "into",
+        "start": 63.7,
+        "end": 63.92,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "his",
+        "start": 63.92,
+        "end": 64.14,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "social",
+        "start": 64.14,
+        "end": 64.56,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "media",
+        "start": 64.56,
+        "end": 65.32,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "presence",
+        "start": 65.32,
+        "end": 65.76,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "to",
+        "start": 65.76,
+        "end": 65.94,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "see",
+        "start": 65.94,
+        "end": 66.1,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "if",
+        "start": 66.1,
+        "end": 66.18,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "there's",
+        "start": 66.18,
+        "end": 66.44,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "anything",
+        "start": 66.44,
+        "end": 66.76,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "more",
+        "start": 66.76,
+        "end": 67.02,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "they",
+        "start": 67.02,
+        "end": 67.16,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "can",
+        "start": 67.16,
+        "end": 67.36,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "learn",
+        "start": 67.36,
+        "end": 67.58,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "about",
+        "start": 67.58,
+        "end": 67.84,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "his",
+        "start": 67.84,
+        "end": 68.08,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "motivations.",
+        "start": 68.08,
+        "end": 68.82,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "Bill,",
+        "start": 70.4,
+        "end": 70.46,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "to",
+        "start": 70.56,
+        "end": 70.58,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "what",
+        "start": 70.58,
+        "end": 70.76,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "extent",
+        "start": 70.76,
+        "end": 70.98,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "has",
+        "start": 70.98,
+        "end": 71.18,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "this",
+        "start": 71.18,
+        "end": 71.52,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "episode",
+        "start": 71.52,
+        "end": 72.72,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "readjusted",
+        "start": 74.28,
+        "end": 74.78,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "or",
+        "start": 74.78,
+        "end": 75.08,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "at",
+        "start": 75.08,
+        "end": 75.58,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "least",
+        "start": 75.58,
+        "end": 75.8,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "led",
+        "start": 75.8,
+        "end": 76.02,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "to",
+        "start": 76.02,
+        "end": 76.26,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "changes",
+        "start": 76.26,
+        "end": 76.84,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "in",
+        "start": 76.84,
+        "end": 77.34,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "terms",
+        "start": 77.34,
+        "end": 77.56,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "of",
+        "start": 77.56,
+        "end": 77.78,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "the",
+        "start": 77.78,
+        "end": 78.2,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "Trump",
+        "start": 78.2,
+        "end": 78.46,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "campaign?",
+        "start": 78.46,
+        "end": 79.04,
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "word": "Well,",
+        "start": 81.98,
+        "end": 82.2,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "it's",
+        "start": 82.24,
+        "end": 82.42,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "definitely",
+        "start": 82.42,
+        "end": 82.74,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "allowed",
+        "start": 82.74,
+        "end": 83.02,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "the",
+        "start": 83.02,
+        "end": 83.26,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "Trump",
+        "start": 83.26,
+        "end": 83.46,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "campaign",
+        "start": 83.46,
+        "end": 83.98,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "to",
+        "start": 83.98,
+        "end": 84.44,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "kind",
+        "start": 84.44,
+        "end": 84.68,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "of",
+        "start": 84.68,
+        "end": 84.9,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "turn",
+        "start": 84.9,
+        "end": 85.12,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "the",
+        "start": 85.12,
+        "end": 85.38,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "page",
+        "start": 85.38,
+        "end": 85.8,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "on",
+        "start": 85.8,
+        "end": 86.22,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "the",
+        "start": 86.22,
+        "end": 86.48,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "discussion",
+        "start": 86.48,
+        "end": 86.96,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "that",
+        "start": 86.96,
+        "end": 87.14,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "had",
+        "start": 87.14,
+        "end": 87.4,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "focused",
+        "start": 87.4,
+        "end": 87.7,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "quite",
+        "start": 87.7,
+        "end": 87.98,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "a",
+        "start": 87.98,
+        "end": 88.18,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "bit",
+        "start": 88.18,
+        "end": 88.3,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "on",
+        "start": 88.3,
+        "end": 88.52,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "the",
+        "start": 88.52,
+        "end": 88.66,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "former",
+        "start": 88.66,
+        "end": 88.92,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "president's",
+        "start": 88.92,
+        "end": 89.52,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "relatively",
+        "start": 90.22,
+        "end": 90.68,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "poor",
+        "start": 90.68,
+        "end": 91.02,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "performance",
+        "start": 91.02,
+        "end": 91.62,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "in",
+        "start": 91.62,
+        "end": 91.84,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "the",
+        "start": 91.84,
+        "end": 92.0,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "debate",
+        "start": 92.0,
+        "end": 92.32,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "against",
+        "start": 92.32,
+        "end": 92.64,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "Kamala",
+        "start": 92.64,
+        "end": 93.06,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "Harris",
+        "start": 93.06,
+        "end": 93.36,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "exactly",
+        "start": 93.36,
+        "end": 93.96,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "a",
+        "start": 93.96,
+        "end": 94.22,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "week",
+        "start": 94.22,
+        "end": 94.38,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "ago.",
+        "start": 94.38,
+        "end": 95.04,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "Republicans",
+        "start": 95.46,
+        "end": 95.96,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "are",
+        "start": 95.96,
+        "end": 96.26,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "focused",
+        "start": 96.26,
+        "end": 96.66,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "or",
+        "start": 96.66,
+        "end": 97.38,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "Trump",
+        "start": 97.38,
+        "end": 97.8,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "is",
+        "start": 97.8,
+        "end": 98.06,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "focused",
+        "start": 98.06,
+        "end": 98.46,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "more",
+        "start": 98.46,
+        "end": 98.76,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "on",
+        "start": 98.76,
+        "end": 99.08,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "saying",
+        "start": 99.08,
+        "end": 99.26,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "that",
+        "start": 99.26,
+        "end": 99.56,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "the",
+        "start": 100.28,
+        "end": 100.6,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "Democratic",
+        "start": 100.6,
+        "end": 101.02,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "rhetoric",
+        "start": 101.02,
+        "end": 101.72,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "has",
+        "start": 101.72,
+        "end": 102.64,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "led",
+        "start": 102.64,
+        "end": 102.94,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "to",
+        "start": 102.94,
+        "end": 103.54,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "this",
+        "start": 103.54,
+        "end": 103.9,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "second",
+        "start": 103.9,
+        "end": 104.26,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "assassination",
+        "start": 104.26,
+        "end": 105.02,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "attempt",
+        "start": 105.02,
+        "end": 105.48,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "on",
+        "start": 105.48,
+        "end": 105.72,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "him.",
+        "start": 105.72,
+        "end": 105.84,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "He's",
+        "start": 106.52000000000001,
+        "end": 107.12,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "tried",
+        "start": 107.12,
+        "end": 107.26,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "to",
+        "start": 107.26,
+        "end": 107.46,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "push",
+        "start": 107.46,
+        "end": 107.7,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "back",
+        "start": 107.7,
+        "end": 108.0,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "and",
+        "start": 108.0,
+        "end": 108.26,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "say",
+        "start": 108.26,
+        "end": 108.44,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "that",
+        "start": 108.44,
+        "end": 108.58,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "he's",
+        "start": 108.58,
+        "end": 108.82,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "going",
+        "start": 108.82,
+        "end": 108.9,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "to",
+        "start": 108.9,
+        "end": 109.06,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "keep",
+        "start": 109.06,
+        "end": 109.24,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "fighting,",
+        "start": 109.24,
+        "end": 109.6,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "that",
+        "start": 109.62,
+        "end": 109.9,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "he",
+        "start": 109.9,
+        "end": 110.12,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "is",
+        "start": 110.12,
+        "end": 110.38,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "committed",
+        "start": 110.38,
+        "end": 110.8,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "to",
+        "start": 110.8,
+        "end": 111.74,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "winning",
+        "start": 111.74,
+        "end": 112.04,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "the",
+        "start": 112.04,
+        "end": 112.34,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "election.",
+        "start": 112.34,
+        "end": 112.78,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "But",
+        "start": 112.78,
+        "end": 113.32,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "basically,",
+        "start": 113.32,
+        "end": 113.84,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "I",
+        "start": 114.02,
+        "end": 114.02,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "think",
+        "start": 114.02,
+        "end": 114.28,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "we're",
+        "start": 114.28,
+        "end": 114.68,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "not",
+        "start": 114.68,
+        "end": 114.96,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "going",
+        "start": 114.96,
+        "end": 115.18,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "to",
+        "start": 115.18,
+        "end": 115.44,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "hear",
+        "start": 115.44,
+        "end": 115.64,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "quite",
+        "start": 115.64,
+        "end": 115.96,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "as",
+        "start": 115.96,
+        "end": 116.2,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "much",
+        "start": 116.2,
+        "end": 116.48,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "talk",
+        "start": 116.48,
+        "end": 116.78,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "about",
+        "start": 116.78,
+        "end": 117.1,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "things",
+        "start": 117.68,
+        "end": 118.18,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "like",
+        "start": 118.18,
+        "end": 118.6,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "whether",
+        "start": 118.6,
+        "end": 118.9,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "immigrants",
+        "start": 118.9,
+        "end": 119.36,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "are",
+        "start": 119.36,
+        "end": 119.7,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "eating",
+        "start": 119.7,
+        "end": 119.92,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "people's",
+        "start": 119.92,
+        "end": 120.58,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "pets.",
+        "start": 120.58,
+        "end": 120.8,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "That,",
+        "start": 121.14,
+        "end": 121.58,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "along",
+        "start": 121.58,
+        "end": 122.0,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "with",
+        "start": 122.0,
+        "end": 122.2,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "the",
+        "start": 122.2,
+        "end": 122.42,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "debate,",
+        "start": 122.42,
+        "end": 122.62,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "had",
+        "start": 122.74,
+        "end": 122.8,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "been",
+        "start": 122.8,
+        "end": 123.0,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "the",
+        "start": 123.0,
+        "end": 123.16,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "big",
+        "start": 123.16,
+        "end": 123.36,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "focus",
+        "start": 123.36,
+        "end": 123.76,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "just",
+        "start": 123.76,
+        "end": 124.12,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "48",
+        "start": 124.12,
+        "end": 124.52,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "hours",
+        "start": 124.52,
+        "end": 124.98,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "ago.",
+        "start": 124.98,
+        "end": 125.3,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "I",
+        "start": 125.68,
+        "end": 125.68,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "think",
+        "start": 125.68,
+        "end": 125.92,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "Republicans",
+        "start": 125.92,
+        "end": 126.44,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "are",
+        "start": 126.44,
+        "end": 126.64,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "going",
+        "start": 126.64,
+        "end": 126.74,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "to",
+        "start": 126.74,
+        "end": 126.94,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "try",
+        "start": 126.94,
+        "end": 127.04,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "to",
+        "start": 127.04,
+        "end": 127.32,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "switch",
+        "start": 127.32,
+        "end": 127.54,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "this",
+        "start": 127.54,
+        "end": 127.88,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "to",
+        "start": 127.88,
+        "end": 128.26,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "more",
+        "start": 128.26,
+        "end": 128.5,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "discussion",
+        "start": 128.5,
+        "end": 128.96,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "about",
+        "start": 128.96,
+        "end": 129.24,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "the",
+        "start": 129.24,
+        "end": 129.48,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "economy",
+        "start": 129.48,
+        "end": 129.9,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "and",
+        "start": 129.9,
+        "end": 130.68,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "other",
+        "start": 130.68,
+        "end": 130.88,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "things",
+        "start": 130.88,
+        "end": 131.22,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "where",
+        "start": 131.22,
+        "end": 131.42,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "the",
+        "start": 131.42,
+        "end": 131.58,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "former",
+        "start": 131.58,
+        "end": 131.78,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "president",
+        "start": 131.78,
+        "end": 132.32,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "is",
+        "start": 132.32,
+        "end": 132.82,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "typically",
+        "start": 132.82,
+        "end": 133.28,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "on",
+        "start": 133.28,
+        "end": 133.64,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "a",
+        "start": 133.64,
+        "end": 133.76,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "little",
+        "start": 133.76,
+        "end": 134.0,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "bit",
+        "start": 134.0,
+        "end": 134.34,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "stronger",
+        "start": 134.34,
+        "end": 134.64,
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "word": "footing.",
+        "start": 134.64,
+        "end": 134.9,
+        "speaker": "SPEAKER_01"
+    }
+]
